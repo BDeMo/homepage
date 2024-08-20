@@ -9,7 +9,7 @@ redirect_from:
 
 News
 ======
-<font color="red">Actively applying for a Phd position in 2025 Fall/Spring </font>! If a student familiar with theoretical analysis, optimization, generative model with extensive industry experiences as well, feel free to [Mail](3101ihs@gmail.com)!
+<font color="red">Actively applying for a 2025 Fall PhD!</font> If a student familiar with theoretical analysis, optimization, generative model with extensive industry experiences as well, feel free to [Mail](3101ihs@gmail.com)!
 
 Biography
 ======
