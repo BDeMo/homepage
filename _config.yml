@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Mingjia Shi / Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Mingjia Shi"
+description              : &description "Learn well and practice a lot"
 url                      : https://bdemo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/homepage" # the subpath of your site, e.g. "/blog"
 repository               : "BDeMo/homepage"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
