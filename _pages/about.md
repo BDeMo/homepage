@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mingjia (Samuel Jayden) Shi: An idealist who is constantly learning and practicing, who's curious about the nature of the world."
+title: "Mingjia (Samuel Jayden) Shi: An idealist who is constantly learning and practicing."
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,19 +13,16 @@ News
 
 Biography
 ======
-
+I am always curious about the nature of the world.
 
 Research Interests
 ======
 
 
-Distributed Learning
-------
+- Distributed Learning
 
 
-Generative Model
-------
+- Generative Model
 
 
-Efficient AI
-------
+- Efficient AI
