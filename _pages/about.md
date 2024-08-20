@@ -18,11 +18,13 @@ I am always curious about the nature of the world.
 Research Interests
 ======
 
-
 - Distributed Learning
+
+
+- Efficient AI
 
 
 - Generative Model
 
 
-- Efficient AI
+- LLM Safety and Privacy
