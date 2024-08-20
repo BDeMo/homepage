@@ -12,7 +12,7 @@ title                    : "Mingjia Shi / Homepage"
 title_separator          : "-"
 name                     : &name "Mingjia Shi"
 description              : &description "Learn well and practice a lot"
-url                      : https://www.github.com/BDeMo/homepage # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.github.com/BDeMo # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/homepage" # the subpath of your site, e.g. "/blog"
 repository               : "BDeMo/homepage"
 
