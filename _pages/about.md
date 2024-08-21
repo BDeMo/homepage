@@ -17,7 +17,7 @@ In 2024, I completed my master degree at Sichuan University majored in Artificia
 
 Career
 ======
-During the period of study, as an author and reviewer of Top AI conferences and journals, I have appreciated the fascination of research and what I want to do. I pursue further studies, a PhD career, and more insights about the nature of AI and the world. I wanna the difficulties encountered not to be KPIs and dull, but rather my own incompetence.
+During the period of study, as an author and reviewer of Top AI conferences and journals, I have appreciated the fascination of research and what I want to do, so I pursue further studies, a PhD career. Hope the difficulties encountered not to be KPIs and dull, but rather my own incompetence.
 
 Research Interests
 ======
