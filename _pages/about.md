@@ -25,20 +25,17 @@ The works in hands are about both theoretical analyses and corresponding methods
 
 
 - **Distributed Learning and Optimization**:
-Distributed learning is the last one I majored in. The works explore the heterogeneity composition in federated learning primarily from the perspective of information composition, with methods towards information theory and optimization (e.g., maximum expectation algorithms and Bayesian learning). Also involved in the distributed area are load balancing and communication compression. Participating roles include theory, methodology, engineering and promotion.
-
+Distributed learning is the last one I majored in. The works explore the heterogeneity composition in federated learning primarily from the perspective of information composition, with methods towards information theory and optimization.
 
 - **Efficient AI**:
 Efficient AI is the recent major engagements and expected future major directions. To improve efficiency, especially training, in AI applications, the works in hands are mainly about data-centric AI and optimization.
 
 
 - **Generative Model**:
-Works about Generative Model interest me the most recently. The big hitter, generative model well-supported by diffusion theory, bring me back to the wonders of physics. A theoretically grounded approach is always fascinating. There are countless ideas whenever thermodynamics is mentioned, and in the diffusion model I vaguely see the unification of chemical entropy and information entropy on stochastic processes from the Bayesian view.
-
+Works about Generative Model interest me the most recently. The big hitter, generative model well-supported by diffusion theory, bring me back to the wonders of physics. A theoretically grounded approach is always fascinating.
 
 - **LLM Safety and Privacy**:
-Another big hitter, LLM, and its practical generation tasks are also of my interests. Being the moon, this field in has a lot of special phenomena as well as things that need to be explained, all of which titillate the curiosity. Similarly, there are a lot of industrial things that need to be solved, for the sake of sixpence, such as, effiicency, human value alignment and privacy. The variety of empirical phenomena of deep learning at scale is equally fascinating.
-
+Another big hitter, LLM, and its practical generation tasks are also of my interests. A lot of industrial issues that need to be solved, effiicency, human value alignment and privacy.
 
 Newest Works (Selected)
 ======
