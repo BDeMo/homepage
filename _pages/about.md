@@ -47,7 +47,7 @@ X. Wu, J. Niu, X. Liu, **M. Shi**, G. Zhu, S. Tang
 ([paper](https://arxiv.org/abs/2407.16139))
 
 **Arxiv** A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training 
-K. Wang\*, Y. Zhou\*, **M. Shi**\*, Z. Yuan, Y. Shang, X. Peng, H. Zhang, Y. You
+K. Wang\*, Y. Zhou\*, **M. Shi\***, Z. Yuan, Y. Shang, X. Peng, H. Zhang, Y. You
 ([paper](https://arxiv.org/abs/2405.17403))
 
 Conference
@@ -60,13 +60,15 @@ Y. Zhou, **M. Shi**, Y. Tian, Y. Li, Q. Ye, J. Lv
 **M. Shi**, Y. Zhou, K. Wang, H. Zhang, S. Huang, Q. Ye, J. Lv
 ([paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5a3674849d6d6d23ac088b9a2552f323-Abstract-Conference.html))
 
+**ICONIP 2023** Unconstrained Feature Model and Its General Geometric Patterns in Federated Learning: Local Subspace Minority Collapse 
+**M. Shi**, Y. Zhou, Q. Ye, J. Lv
+([paper](https://link.springer.com/chapter/10.1007/978-981-99-8132-8_34))
+
 **ICCV 2023** Communication-efficient Federated Learning with Single-Step Synthetic Features Compressor for Faster Convergence 
 Y. Zhou, **M. Shi**, Y. Li, Y. Sun, Q. Ye, J. Lv
 ([paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Communication-efficient_Federated_Learning_with_Single-Step_Synthetic_Features_Compressor_for_Faster_ICCV_2023_paper.html))
 
-**ICONIP 2023** Unconstrained Feature Model and Its General Geometric Patterns in Federated Learning: Local Subspace Minority Collapse 
-**M. Shi**, Y. Zhou, Q. Ye, J. Lv
-([paper](https://link.springer.com/chapter/10.1007/978-981-99-8132-8_34))
+
 
 Journal
 ------
