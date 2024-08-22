@@ -1,11 +1,12 @@
 ---
 title: "A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2024-SpeeD
 excerpt: ''
 date: 2024-05-01
-venue: ''
+venue: 'Arxiv'
+slidesurl: ''
 paperurl: 'https://arxiv.org/abs/2405.17403'
 citation: 'A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training. K. Wang*, Y. Zhou*, **M. Shi***, Z. Yuan, Y. Shang, X. Peng, H. Zhang, Y. You'
 ---
