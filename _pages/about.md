@@ -47,7 +47,7 @@ X. Wu, J. Niu, X. Liu, **M. Shi**, G. Zhu, S. Tang
 ([paper](https://arxiv.org/abs/2407.16139))
 
 **Arxiv** A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training 
-K. Wang*, Y. Zhou*, **M. Shi***, Z. Yuan, Y. Shang, X. Peng, H. Zhang, Y. You
+K. Wang\*, Y. Zhou\*, **M. Shi**\*, Z. Yuan, Y. Shang, X. Peng, H. Zhang, Y. You
 ([paper](https://arxiv.org/abs/2405.17403))
 
 Conference
