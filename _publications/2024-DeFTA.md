@@ -6,7 +6,7 @@ permalink: /publication/2023-FCCA
 excerpt: ''
 date: 2024-04-01
 venue: 'InfoSci'
-slidesurl: ''
+# slidesurl: ''
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S002002552400495X'
 citation: 'DeFTA: A Plug-and-Play Peer-to-Peer Decentralized Federated Learning Framework. InfoSci. Y. Zhou, M. Shi, Y. Tian, Q. Ye, J. Lv'
 ---

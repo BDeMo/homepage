@@ -6,7 +6,7 @@ permalink: /publication/2023-FCCA
 excerpt: ''
 date: 2022-07-01
 venue: 'JoSc'
-slidesurl: ''
+# slidesurl: ''
 paperurl: 'https://link.springer.com/article/10.1007/s11227-021-04267-5'
 citation: 'FLSGD: free local SGD with parallel synchronization. JoSc. Q. Ye, Y. Zhou, M. Shi, J. Lv'
 ---
