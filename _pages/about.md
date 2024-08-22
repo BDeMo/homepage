@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mingjia (Samuel Jayden) Shi: a dreamer learning and practicing constantly."
+title: "Mingjia (Samuel Jayden) Shi: A dreamer learning and practicing constantly."
 author_profile: true
 redirect_from: 
   - /about/
