@@ -37,7 +37,7 @@ Works about Generative Model interest me the most recently. The big hitter, gene
 - **LLM Safety and Privacy**:
 Another big hitter, LLM, and its practical generation tasks are also of my interests. A lot of industrial issues that need to be solved, effiicency, human value alignment and privacy.
 
-Newest Works (Selected)
+Latest Works (Selected)
 ======
 
 Pre-Print 
