@@ -17,6 +17,10 @@ Education
 
 Work experience
 ======
+* Summer 2024: Intern Researcher
+  * Shanghai AI Lab
+  * Duties includes: Multimodal LLM and Token efficiency
+
 * Winter 2023: Intern Researcher
   * Lenovo AI Reasearch in Beijing
   * Duties includes: Research in Federated Learning and Videos Analysis.
