@@ -20,6 +20,7 @@ Work experience
 * Summer 2024: Intern Researcher
   * Shanghai AI Lab
   * Duties includes: Multimodal LLM and Token efficiency
+  * Supervisor: Kaipeng Zhang 
 
 * Winter 2023: Intern Researcher
   * Lenovo AI Reasearch in Beijing
