@@ -34,7 +34,7 @@ Efficient AI is the recent major engagements and expected future major direction
 - **Generative Model**:
 Works about Generative Model interest me the most recently. The big hitter, generative model well-supported by diffusion theory, bring me back to the wonders of physics. A theoretically grounded approach is always fascinating.
 
-- **LLM Safety and Privacy**:
+- **AI Safety and Privacy**:
 Another big hitter, LLM, and its practical generation tasks are also of my interests. A lot of industrial issues that need to be solved, effiicency, human value alignment and privacy.
 
 Latest Works (Selected)
