@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-News
+Latest News
 ======
 <font color="red">Actively applying for a 2025 Fall PhD!</font> If you are interested in a student familiar with theoretical analysis, generative model with extensive industry experiences as well, feel free to [Mail](3101ihs@gmail.com)!
 
