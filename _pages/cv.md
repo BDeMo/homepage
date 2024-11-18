@@ -17,20 +17,22 @@ Education
 
 Work experience
 ======
-* Summer 2024: Intern Researcher
+<!-- * Summer 2024: Intern Researcher
   * Shanghai AI Lab
   * Duties includes: Multimodal LLM and Token efficiency
-  * Supervisor: Kaipeng Zhang 
+  * Supervisor: Kaipeng Zhang  -->
 
 * Winter 2023: Intern Researcher
   * Lenovo AI Reasearch in Beijing
-  * Duties includes: Research in Federated Learning and Videos Analysis.
-  * Supervisor: Karl Huang
+  * Duties includes: Research in Federated Learning and Videos Analysis
+
+* Winter 2022: Intern Student
+  * NUS HPC-AI Lab
+  * Duties includes: Research in Efficient AI
 
 * Summer 2018: Intern Researcher
   * Lenovo Reasearch in Chengdu
   * Duties included: Distributed System Developments
-  * Supervisor: Fan Yang
   
 <!-- Skills
 ======
