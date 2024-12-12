@@ -1,14 +1,14 @@
 ---
-title: "A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training"
+title: "Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training"
 collection: publications
 category: preprints
-permalink: /publication/2024-SpeeD
+permalink: /publication/2025-R-MeeTo
 excerpt: ''
-date: 2024-05-01
+date: 2024-12-12
 venue: 'Arxiv'
 # slidesurl: ''
 paperurl: 'https://arxiv.org/abs/2405.17403'
-citation: 'A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training. Arxiv. K. Wang*,  M. Shi*, Y. Zhou*,Z. Yuan, Y. Shang, X. Peng, H. Zhang, Y. You'
+citation: 'Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training. Arxiv. M. Shi*, Y. Zhou*, R. Yu, Z. Li, Z. Liang, X. Zhao, X. Peng, T Rajpurohit, R. Vedantam, W. Zhao, K. Wang, Y. You.
 ---
 
 Theoretically and empirically, we divide the DDPM scheduler and corresponding time steps in the diffusion process into three areas: acceleration, deceleration and convergence, according to the status of process increments.
