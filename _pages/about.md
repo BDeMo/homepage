@@ -42,6 +42,9 @@ Latest Works (Selected)
 
 Pre-Print 
 ------
+**Arxiv** 'Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training. Arxiv. **M. Shi\***, Y. Zhou*, R. Yu, Z. Li, Z. Liang, X. Zhao, X. Peng, T Rajpurohit, R. Vedantam, W. Zhao, K. Wang, Y. You.
+([paper](https://github.com/NUS-HPC-AI-Lab/R-MeeTo))
+
 **Arxiv** Tackling Feature-Classifier Mismatch in Federated Learning via Prompt-Driven Feature Transformation.
 X. Wu, J. Niu, X. Liu, **M. Shi**, G. Zhu, S. Tang
 ([paper](https://arxiv.org/abs/2407.16139))
