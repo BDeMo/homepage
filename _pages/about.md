@@ -7,21 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-&#127881 Latest News
+ Latest News
 ======
-<p>
-  - <font color="red">Actively applying for a 2025 Fall PhD!</font>&#127919 If you are interested in a student familiar with theoretical analysis, generative model with extensive industry experiences as well, feel free to [&#9993 Mail](3101ihs@gmail.com)!
-</p>
+- <font color="red">Actively applying for a 2025 Fall PhD!</font> If you are interested in a student familiar with theoretical analysis, generative model with extensive industry experiences as well, feel free to [ Mail](3101ihs@gmail.com)!
 
-&#127891 Biography
+ Biography
 ======
 In 2024, I completed my master degree at Sichuan University majored in Artificial Intelligence, right where I had completed my bachelor's degree before, supervised by Prof. [Jiancheng Lv](https://center.dicalab.cn/). The majors of my career in Sichuan University are optimization and distributed learning (e.g., decentralized optimization and federated learning), and it's the second year as an intern student of [NUS HPC-Lab](https://ai.comp.nus.edu.sg/), and I enojoy the challenges and interesting topics here (e.g. efficient AI, generative model, parameter generation and etc.).
 
-&#9997 Current Career
+ Current Career
 ======
 During the period of study, as an author and reviewer of Top AI conferences and journals, I have appreciated the fascination of research and what I want to do, so I pursue further studies, a PhD career. Hope the difficulties encountered not to be KPIs and dull, but rather my own incompetence.
 
-&#128187 Research Interests
+ Research Interests
 ======
 The works in hands are about both theoretical analyses and corresponding methods about Generative Models, AI Privacy and Safety, and Federated Learning.
 
@@ -39,7 +37,7 @@ Works about Generative Model interest me the most recently. The big hitter, gene
 - **AI Safety and Privacy**:
 Another big hitter, LLM, and its practical generation tasks are also of my interests. A lot of industrial issues that need to be solved, effiicency, human value alignment and privacy.
 
-&#128209 Latest Works (Selected)
+ Latest Works (Selected)
 ======
 
 Pre-Print 
