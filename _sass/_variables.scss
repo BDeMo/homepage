@@ -32,7 +32,7 @@ $garamond                   : Garamond, serif;
 
 $global-font-family         : $my_font;
 $header-font-family         : $my_font;
-$caption-font-family        : $serif;
+$caption-font-family        : $my_font;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
@@ -63,12 +63,12 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #ffffff77;
-$background-color           : #ffffffb9;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : #252323;
-$border-color               : $lighter-gray;
+$body-color                 : $dark-gray;
+$background-color           : $darker-gray;
+$code-background-color      : $light-gray;
+$code-background-color-dark : $dark-gray ;
+$text-color                 : $lighter-gray;
+$border-color               : $gray;
 
 $primary-color              : rgb(31, 34, 35);
 $success-color              : #62c462;
