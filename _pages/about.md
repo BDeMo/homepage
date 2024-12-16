@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mingjia (Samuel Jayden) Shi: A dreamer learning and practicing constantly."
+title: "Mingjia (Samuel Jayden) Shi's homepage."
 author_profile: true
 redirect_from: 
   - /about/
@@ -21,7 +21,7 @@ During the period of study, as an author and reviewer of Top AI conferences and 
 
 Research Interests
 ======
-The works in hands are about both theoretical analyses and corresponding methods about Generative Models, LLM Safety Alignment, and Federated Learning.
+The works in hands are about both theoretical analyses and corresponding methods about Generative Models, AI Privacy and Safety, and Federated Learning.
 
 
 - **Distributed Learning and Optimization**:
