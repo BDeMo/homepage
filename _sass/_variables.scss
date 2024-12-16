@@ -29,13 +29,15 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$my_font                    : $google, $monospace, $calisto;
+// customized font
+$my_font                    : $google, $monospace;
+$my_header_font             : Geneva, Garamond, "Lucida Bright";
 
 $sidebar_font               : $my_font;
 $navigator_font             : $my_font;
 $global-font-family         : $my_font;
-$header-font-family         : $my_font;
-$caption-font-family        : $my_font;
+$header-font-family         : $my_header_font;
+$caption-font-family        : $my_header_font;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
