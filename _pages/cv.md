@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
-* M.S. in Sichuan University University, 2024
-* B.S. in Sichuan University University, 2019
+* M.E. in Sichuan University University, 2024
+* B.E. in Sichuan University University, 2019
 
 Work experience
 ======
