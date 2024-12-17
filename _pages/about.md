@@ -43,13 +43,13 @@ Another big hitter, LLM, and its practical generation tasks are also of my inter
 Pre-Print 
 ------
 1. **Arxiv** Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training. Arxiv. **M. Shi**\*, Y. Zhou*, R. Yu, Z. Li, Z. Liang, X. Zhao, X. Peng, T Rajpurohit, R. Vedantam, W. Zhao, K. Wang, Y. You.
-([paper](https://github.com/NUS-HPC-AI-Lab/R-MeeTo), coming \[half-public\])
+([paper](https://drive.google.com/file/d/1xJWhdqzama9k0v8Y9hV8InRDDTpzJAmN/view),[code](https://github.com/NUS-HPC-AI-Lab/R-MeeTo),[page](https://bdemo.github.io/R-MeeTo/))
 1. **Arxiv** Tackling Feature-Classifier Mismatch in Federated Learning via Prompt-Driven Feature Transformation.
 X. Wu, J. Niu, X. Liu, **M. Shi**, G. Zhu, S. Tang
 ([paper](https://arxiv.org/abs/2407.16139))
 1. **Arxiv** A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training.
 K. Wang\*, Y. Zhou\*, **M. Shi**\*, Z. Yuan, Y. Shang, X. Peng, H. Zhang, Y. You
-([paper](https://arxiv.org/abs/2405.17403))
+([paper](https://arxiv.org/abs/2405.17403),[code](https://github.com/NUS-HPC-AI-Lab/SpeeD))
 
 Conference
 ------
