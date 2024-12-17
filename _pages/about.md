@@ -43,18 +43,18 @@ Another big hitter, LLM, and its practical generation tasks are also of my inter
 Pre-Print 
 ------
 1. **Arxiv** Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training. Arxiv. **M. Shi**\*, Y. Zhou*, R. Yu, Z. Li, Z. Liang, X. Zhao, X. Peng, T Rajpurohit, R. Vedantam, W. Zhao, K. Wang, Y. You.
-([paper](https://drive.google.com/file/d/1xJWhdqzama9k0v8Y9hV8InRDDTpzJAmN/view),[code](https://github.com/NUS-HPC-AI-Lab/R-MeeTo),[page](https://bdemo.github.io/R-MeeTo/))
+([paper](https://drive.google.com/file/d/1xJWhdqzama9k0v8Y9hV8InRDDTpzJAmN/view), [code](https://github.com/NUS-HPC-AI-Lab/R-MeeTo), [page](https://bdemo.github.io/R-MeeTo/))
 1. **Arxiv** Tackling Feature-Classifier Mismatch in Federated Learning via Prompt-Driven Feature Transformation.
 X. Wu, J. Niu, X. Liu, **M. Shi**, G. Zhu, S. Tang
 ([paper](https://arxiv.org/abs/2407.16139))
 1. **Arxiv** A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training.
 K. Wang\*, Y. Zhou\*, **M. Shi**\*, Z. Yuan, Y. Shang, X. Peng, H. Zhang, Y. You
-([paper](https://arxiv.org/abs/2405.17403),[code](https://github.com/NUS-HPC-AI-Lab/SpeeD))
+([paper](https://arxiv.org/abs/2405.17403), [code](https://github.com/NUS-HPC-AI-Lab/SpeeD))
 
 Conference
 ------
 1. **ICASSP 2024** Federated CINN Clustering for Accurate Clustered Federated Learning. Y. Zhou, **M. Shi**, Y. Tian, Y. Li, Q. Ye, J. Lv ([paper](https://ieeexplore.ieee.org/abstract/document/10447282/))
-1. **NeurIPS 2023** PRIOR: Personalized Prior for Reactivating the Information Overlooked in Federated Learning. **M. Shi**, Y. Zhou, K. Wang, H. Zhang, S. Huang, Q. Ye, J. Lv ([paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5a3674849d6d6d23ac088b9a2552f323-Abstract-Conference.html))
+1. **NeurIPS 2023** PRIOR: Personalized Prior for Reactivating the Information Overlooked in Federated Learning. **M. Shi**, Y. Zhou, K. Wang, H. Zhang, S. Huang, Q. Ye, J. Lv ([paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5a3674849d6d6d23ac088b9a2552f323-Abstract-Conference.html), [code](https://github.com/BDeMo/pFedBreD_public))
 1. **ICONIP 2023** Unconstrained Feature Model and Its General Geometric Patterns in Federated Learning: Local Subspace Minority Collapse. **M. Shi**, Y. Zhou, Q. Ye, J. Lv ([paper](https://link.springer.com/chapter/10.1007/978-981-99-8132-8_34))
 1. **ICCV 2023** Communication-efficient Federated Learning with Single-Step Synthetic Features Compressor for Faster Convergence. Y. Zhou, **M. Shi**, Y. Li, Y. Sun, Q. Ye, J. Lv ([paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Communication-efficient_Federated_Learning_with_Single-Step_Synthetic_Features_Compressor_for_Faster_ICCV_2023_paper.html))
 
