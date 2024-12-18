@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mingjia (Samuel Jayden) Shi's homepage."
+title: "Mingjia (Samuel Jayden) Shi's Homepage."
 author_profile: true
 redirect_from: 
   - /about/
