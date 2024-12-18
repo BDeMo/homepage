@@ -6,8 +6,8 @@ permalink: /publication/2024-R-MeeTo
 excerpt: ''
 date: 2024-12-12
 venue: 'Arxiv'
-# slidesurl: ''
-paperurl: 'https://github.com/NUS-HPC-AI-Lab/R-MeeTo'
+# slidesurl: 'https://bdemo.github.io/R-MeeTo/'
+paperurl: 'https://arxiv.org/abs/2412.12496'
 citation: 'Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training. Arxiv. M. Shi*, Y. Zhou*, R. Yu, Z. Li, Z. Liang, X. Zhao, X. Peng, T Rajpurohit, R. Vedantam, W. Zhao, K. Wang, Y. You.'
 ---
 
