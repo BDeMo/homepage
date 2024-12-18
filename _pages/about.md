@@ -40,7 +40,7 @@ Another big hitter, LLM, and its practical generation tasks are also of my inter
  Latest Works (Selected)
 ======
 
-Pre-Print 
+Released Pre-Print 
 ------
 1. **Arxiv** Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training. Arxiv. **M. Shi**\*, Y. Zhou*, R. Yu, Z. Li, Z. Liang, X. Zhao, X. Peng, T Rajpurohit, R. Vedantam, W. Zhao, K. Wang, Y. You.
 ([paper](https://drive.google.com/file/d/1xJWhdqzama9k0v8Y9hV8InRDDTpzJAmN/view), [code](https://github.com/NUS-HPC-AI-Lab/R-MeeTo), [page](https://bdemo.github.io/R-MeeTo/))
