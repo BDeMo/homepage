@@ -9,8 +9,8 @@ redirect_from:
 
 Biography
 ======
-- From 2021 to 2024, I completed my master degree at Sichuan University majored in Artificial Intelligence, right where I had completed my 4-year bachelor's degree before, supervised by Prof. [Jiancheng Lv](https://center.dicalab.cn/). The majors of my career in Sichuan University are distributed optimization and learning (e.g., decentralized optimization and federated learning).
 - It's the 2nd year (written in 2024) as an intern student in [NUS HPC-Lab](https://ai.comp.nus.edu.sg/), and I enojoy the challenges and interesting topics here (e.g. efficient AI, generative model, parameter generation and etc.).
+- From Sep. 2021 to June. 2024, I completed my master degree at Sichuan University majored in Artificial Intelligence, right where I had completed my 4-year bachelor's degree before, supervised by Prof. [Jiancheng Lv](https://center.dicalab.cn/). The majors of my career in Sichuan University are distributed optimization and learning (e.g., decentralized optimization and federated learning).
 
 Latest News
 ======
@@ -24,9 +24,9 @@ During my research period, as an author and a reviewer of Top AI conferences and
 
 Research Interests
 ======
-- **Works in hands**. My works are about both theoretical analyses and corresponding methods about Efficient AI on Trends, Generative Models, AI Privacy and Safety and Federated Learning.
-- **Overall background**. A knowledge and research background about math+cs, system/control/information theory, deep learning thoery, optimization and generalization.
-- **Addition**. Physics and other science disciplines are always beautiful. There is a continuing interest in technical research as well as basic science research .
+- **Works in hands**. My works are mainly both theoretical analyses and corresponding methods about Efficient AI on Trends, Generative Models, AI Privacy and Safety and Federated Learning.
+- **Overall background**. A knowledge and research background about math+cs, system/control/information theory, deep learning thoeries, optimization and generalization.
+- **Addition**. There is a continuing interest in technical research as well as basic science research. Physics and other science disciplines are always beautiful.
 <!-- - **Distributed Learning and Optimization**: -->
 <!-- Distributed learning is the last one I majored in. The works explore the heterogeneity composition in federated learning primarily from the perspective of information composition, with methods towards information theory and optimization. -->
 <!-- - **Efficient AI**: -->
