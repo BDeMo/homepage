@@ -9,36 +9,32 @@ redirect_from:
 
 Biography
 ======
-- From 2021 to 2024, I completed my master degree at Sichuan University majored in Artificial Intelligence, right where I had completed my 4-year bachelor's degree before, supervised by Prof. [Jiancheng Lv](https://center.dicalab.cn/). The majors of my career in Sichuan University are optimization and distributed learning (e.g., decentralized optimization and federated learning).
-- It's the 2nd year (2024 now) as an intern student in [NUS HPC-Lab](https://ai.comp.nus.edu.sg/), and I enojoy the challenges and interesting topics here (e.g. efficient AI, generative model, parameter generation and etc.).
+- From 2021 to 2024, I completed my master degree at Sichuan University majored in Artificial Intelligence, right where I had completed my 4-year bachelor's degree before, supervised by Prof. [Jiancheng Lv](https://center.dicalab.cn/). The majors of my career in Sichuan University are distributed optimization and learning (e.g., decentralized optimization and federated learning).
+- It's the 2nd year (written in 2024) as an intern student in [NUS HPC-Lab](https://ai.comp.nus.edu.sg/), and I enojoy the challenges and interesting topics here (e.g. efficient AI, generative model, parameter generation and etc.).
 
 Latest News
 ======
-- <font color="red">Waiting for 2025 Fall PhD Interviews.</font>
-- Actively applying for a 2025 Fall PhD! If you are interested in a student familiar with theoretical analysis, generative model with extensive industry experiences as well, feel free to [ Mail](3101ihs@gmail.com)!
+- **DDLs After**. <font color="red">Waiting for 2025 Fall PhD Interviews.</font>
+- **DDLs Before**. Actively applying for a 2025 Fall PhD! If you are interested in a student familiar with theoretical analysis, generative model with extensive industry experiences as well, feel free to [ Mail](3101ihs@gmail.com)!
 
 Current areer
 ======
-During the period of study, as an author and reviewer of Top AI conferences and journals, I have appreciated the fascination and what I want to do, so I pursue further studies, a PhD career.
+During my research period, as an author and a reviewer of Top AI conferences and journals, I have appreciated the fascination and what I want to do, so I pursue a PhD career further.
 
 
 Research Interests
 ======
-The works in hands are about both theoretical analyses and corresponding methods about Generative Models, AI Privacy and Safety, and Federated Learning.
-
-
-- **Distributed Learning and Optimization**:
-Distributed learning is the last one I majored in. The works explore the heterogeneity composition in federated learning primarily from the perspective of information composition, with methods towards information theory and optimization.
-
-- **Efficient AI**:
-Efficient AI is the recent major engagements and expected future major directions. To improve efficiency, especially training, in AI applications, the works in hands are mainly about data-centric AI and optimization.
-
-
-- **Generative Model**:
-Works about Generative Model interest me the most recently. The big hitter, generative model well-supported by diffusion theory, bring me back to the wonders of physics. A theoretically grounded approach is always fascinating.
-
-- **AI Safety and Privacy**:
-Another big hitter, LLM, and its practical generation tasks are also of my interests. A lot of industrial issues that need to be solved, effiicency, human value alignment and privacy.
+- **Works in hands**. My works are about both theoretical analyses and corresponding methods about Efficient AI on Trends, Generative Models, AI Privacy and Safety and Federated Learning.
+- **Overall background**. A knowledge and research background about math+cs, system/control/information theory, deep learning thoery, optimization and generalization.
+- **Addition**. Physics and other science disciplines are always beautiful. There is a continuing interest in technical research as well as basic science research .
+<!-- - **Distributed Learning and Optimization**: -->
+<!-- Distributed learning is the last one I majored in. The works explore the heterogeneity composition in federated learning primarily from the perspective of information composition, with methods towards information theory and optimization. -->
+<!-- - **Efficient AI**: -->
+<!-- Efficient AI is the recent major engagements and expected future major directions. To improve efficiency, especially training, in AI applications, the works in hands are mainly about data-centric AI and optimization. -->
+<!-- - **Generative Model**: -->
+<!-- Works about Generative Model interest me the most recently. The big hitter, generative model well-supported by diffusion theory, bring me back to the wonders of physics. A theoretically grounded approach is always fascinating. -->
+<!-- - **AI Safety and Privacy**: -->
+<!-- Another big hitter, LLM, and its practical generation tasks are also of my interests. A lot of industrial issues that need to be solved, effiicency, human value alignment and privacy. -->
 
 Selected Publications
 ======
@@ -61,8 +57,6 @@ K. Wang\*, Y. Zhou\*, **M. Shi**\*, Z. Yuan, Y. Shang, X. Peng, H. Zhang, Y. You
 1. **NeurIPS 2023** PRIOR: Personalized Prior for Reactivating the Information Overlooked in Federated Learning. **M. Shi**, Y. Zhou, K. Wang, H. Zhang, S. Huang, Q. Ye, J. Lv ([paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5a3674849d6d6d23ac088b9a2552f323-Abstract-Conference.html), [code](https://github.com/BDeMo/pFedBreD_public))
 1. **ICONIP 2023** Unconstrained Feature Model and Its General Geometric Patterns in Federated Learning: Local Subspace Minority Collapse. **M. Shi**, Y. Zhou, Q. Ye, J. Lv ([paper](https://link.springer.com/chapter/10.1007/978-981-99-8132-8_34))
 1. **ICCV 2023** Communication-efficient Federated Learning with Single-Step Synthetic Features Compressor for Faster Convergence. Y. Zhou, **M. Shi**, Y. Li, Y. Sun, Q. Ye, J. Lv ([paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Communication-efficient_Federated_Learning_with_Single-Step_Synthetic_Features_Compressor_for_Faster_ICCV_2023_paper.html))
-
-
 
 [Journal]
 1. **InfoSci** DeFTA: A Plug-and-Play Peer-to-Peer Decentralized Federated Learning Framework. Y. Zhou, **M. Shi**, Y. Tian, Q. Ye, J. Lv ([paper](https://www.sciencedirect.com/science/article/pii/S002002552400495X))
