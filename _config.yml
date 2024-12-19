@@ -21,7 +21,7 @@ repository               : "BDeMo/homepage"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "a_pic_of_mine_2.png"
+  avatar           : "a_pic_of_mine_2.jpg"
   name             : "Mingjia Shi"
   pronouns         : # example: "she/her"  
   bio              : "This guy ↑ has just finished research works and is now in the gym."
