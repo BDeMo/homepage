@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Mingjia (Samuel Jayden) Shi's Homepage."
+title: "Mingjia (Samuel Jayden) Shi's Homepage. "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+If you think avatars are too casual, I have a [formal](https://github.com/BDeMo/homepage/blob/master/images/a_pic_of_mine_2.jpg) version too. You should focus more on the content below than here!
 
 Biography
 ======
