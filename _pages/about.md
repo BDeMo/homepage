@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-If you think the left avatar is too casual, I have a [formal](https://github.com/BDeMo/homepage/blob/master/images/a_pic_of_mine_2.jpg) version too. You should focus more on the content below than here!
+If you think the left ones are too casual, I have a [formal](https://github.com/BDeMo/homepage/blob/master/images/a_pic_of_mine_2.jpg) version too. You should focus more on the content below than here!
 
 Biography
 ======
