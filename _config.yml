@@ -21,10 +21,10 @@ repository               : "BDeMo/homepage"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "not_that_formal.jpg"
+  avatar           : "casual.jpg"
   name             : "Mingjia Shi"
   pronouns         : # example: "she/her"  
-  bio              : "↑ This guy has just finished research works and is now in the gym. ([Formal before](https://github.com/BDeMo/homepage/a_pic_of_mine_2.jpg))"
+  bio              : "↑ This guy has just finished research works and is now in the gym."
   location         : "Somewhere on the earth"
   employer         : "Intern in NUS HPC-Lab"
   uri              : www.samjs.online # URL
