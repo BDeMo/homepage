@@ -37,13 +37,13 @@ Works about Generative Model interest me the most recently. The big hitter, gene
 - **AI Safety and Privacy**:
 Another big hitter, LLM, and its practical generation tasks are also of my interests. A lot of industrial issues that need to be solved, effiicency, human value alignment and privacy.
 
- Latest Works (Selected)
+Selected Publications
 ======
 
-2024 and Before
-
-Released Pre-Print 
+[2024 and Before]
 ------
+
+[Released Pre-Print]
 1. **Arxiv** Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training. Arxiv. **M. Shi**\*, Y. Zhou*, R. Yu, Z. Li, Z. Liang, X. Zhao, X. Peng, T Rajpurohit, R. Vedantam, W. Zhao, K. Wang, Y. You.
 ([paper](https://arxiv.org/abs/2412.12496), [code](https://github.com/NUS-HPC-AI-Lab/R-MeeTo), [page](https://bdemo.github.io/R-MeeTo/))
 1. **Arxiv** Tackling Feature-Classifier Mismatch in Federated Learning via Prompt-Driven Feature Transformation.
@@ -53,8 +53,7 @@ X. Wu, J. Niu, X. Liu, **M. Shi**, G. Zhu, S. Tang
 K. Wang\*, Y. Zhou\*, **M. Shi**\*, Z. Yuan, Y. Shang, X. Peng, H. Zhang, Y. You
 ([paper](https://arxiv.org/abs/2405.17403), [code](https://github.com/NUS-HPC-AI-Lab/SpeeD))
 
-Conference
-------
+[Conference]
 1. **ICASSP 2024** Federated CINN Clustering for Accurate Clustered Federated Learning. Y. Zhou, **M. Shi**, Y. Tian, Y. Li, Q. Ye, J. Lv ([paper](https://ieeexplore.ieee.org/abstract/document/10447282/))
 1. **NeurIPS 2023** PRIOR: Personalized Prior for Reactivating the Information Overlooked in Federated Learning. **M. Shi**, Y. Zhou, K. Wang, H. Zhang, S. Huang, Q. Ye, J. Lv ([paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5a3674849d6d6d23ac088b9a2552f323-Abstract-Conference.html), [code](https://github.com/BDeMo/pFedBreD_public))
 1. **ICONIP 2023** Unconstrained Feature Model and Its General Geometric Patterns in Federated Learning: Local Subspace Minority Collapse. **M. Shi**, Y. Zhou, Q. Ye, J. Lv ([paper](https://link.springer.com/chapter/10.1007/978-981-99-8132-8_34))
@@ -62,8 +61,7 @@ Conference
 
 
 
-Journal
-------
+[Journal]
 1. **InfoSci** DeFTA: A Plug-and-Play Peer-to-Peer Decentralized Federated Learning Framework. Y. Zhou, **M. Shi**, Y. Tian, Q. Ye, J. Lv ([paper](https://www.sciencedirect.com/science/article/pii/S002002552400495X))
 1. **Trans.ETCI** DLB: a dynamic load balance strategy for distributed training of deep neural networks. Q. Ye, Y. Zhou, **M. Shi**, Y. Sun, J. Lv ([paper](https://ieeexplore.ieee.org/abstract/document/9960865/))
 1. **JoSc** FLSGD: free local SGD with parallel synchronization. Q. Ye, Y. Zhou, **M. Shi**, J. Lv ([paper](https://link.springer.com/article/10.1007/s11227-021-04267-5))
