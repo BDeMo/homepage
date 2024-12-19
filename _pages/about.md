@@ -40,7 +40,7 @@ Another big hitter, LLM, and its practical generation tasks are also of my inter
 Selected Publications
 ======
 
-[2024 and Before]
+2024 and Before
 ------
 
 [Released Pre-Print]
