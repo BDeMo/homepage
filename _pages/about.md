@@ -19,7 +19,7 @@ Latest News
 - **DDLs After**. <font color="red">Waiting for 2025 Fall PhD Interviews.</font>
 - **DDLs Before**. Actively applying for a 2025 Fall PhD! If you are interested in a student familiar with theoretical analysis, generative model with extensive industry experiences as well, feel free to [ Mail](3101ihs@gmail.com)!
 
-Current areer
+Current Career
 ======
 During my research period, as an author and a reviewer of Top AI conferences and journals, I have appreciated the fascination and what I want to do, so I pursue a PhD career further.
 
