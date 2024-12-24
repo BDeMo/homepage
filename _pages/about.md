@@ -9,28 +9,27 @@ redirect_from:
 
 If you think the one in the sidebar is too casual, I have a [formal version](images/a_pic_of_mine_2.jpg). You should focus more on the content below than here!
 
-Biography
+👨‍🎓 Biography
 ======
 - It's the 2nd year (written in 2024) as an intern student in [NUS HPC-Lab](https://ai.comp.nus.edu.sg/), and I enojoy the challenges and interesting topics here (e.g. efficient AI, generative model, parameter generation and etc.).
 - From Sep. 2021 to June. 2024, I completed my master degree at Sichuan University majored in Artificial Intelligence, right where I had completed my 4-year bachelor's degree before, supervised by Prof. [Jiancheng Lv](https://center.dicalab.cn/). The majors of my career in Sichuan University are distributed optimization and learning (e.g., decentralized optimization and federated learning).
 
 ---
 
-Latest News
+🎉 Latest News
 ======
-- **DDLs After**. <font color="red">Waiting for 2025 Fall PhD Interviews.</font>
-- **DDLs Before**. Actively applying for a 2025 Fall PhD! If you are interested in a student familiar with theoretical analysis, generative model with extensive industry experiences as well, feel free to [ Mail](3101ihs@gmail.com)!
+- **Dec. 24**. <font color="red">Waiting for 2025 Fall PhD and projects for gap year.</font>
+- **Aug. 24**. Actively applying for a 2025 Fall PhD! If you are interested in a student familiar with theoretical analysis, generative model with extensive industry experiences as well, feel free to [ Mail](3101ihs@gmail.com)!
 
-Current Career
+👣 Current Career
 ======
 During my research period, as an author and a reviewer of Top AI conferences and journals, I have appreciated the fascination and what I want to do, so I pursue a PhD career further.
 
-
-Research Interests
+🔍 Research Interests
 ======
-- **Works in hands**. My works are mainly both theoretical analyses and corresponding methods about Efficient AI on Trends, Generative Models, AI Privacy and Safety and Federated Learning.
-- **Overall background**. A knowledge and research background about math+cs, system/control/information theories, deep learning thoeries, optimization and generalization.
-- **More-interest**. There is a continuing interest in technical research as well as basic science research. Physics and other science disciplines are always beautiful.
+- 🤝 **Works in hands**. My works are mainly both theoretical analyses and corresponding methods about Efficient AI on Trends, Generative Models, AI Privacy and Safety and Federated Learning.
+- 🎓 **Overall background**. A knowledge and research background about math+cs, system/control/information theories, deep learning thoeries, optimization and generalization.
+- 🌟 **More-interest**. There is a continuing interest in technical research as well as basic science research. Physics and other science disciplines are always beautiful.
 <!-- - **Distributed Learning and Optimization**: -->
 <!-- Distributed learning is the last one I majored in. The works explore the heterogeneity composition in federated learning primarily from the perspective of information composition, with methods towards information theory and optimization. -->
 <!-- - **Efficient AI**: -->
@@ -42,13 +41,13 @@ Research Interests
 
 ---
 
-Selected Publications
+📄 Selected Publications
 ======
 
-2024 and Before
+📅 2024 and Before
 ------
 
-[Released Pre-Print]
+📠 Released Pre-Print
 1. **Arxiv** Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training. Arxiv. **M. Shi**\*, Y. Zhou*, R. Yu, Z. Li, Z. Liang, X. Zhao, X. Peng, T Rajpurohit, R. Vedantam, W. Zhao, K. Wang, Y. You.
 ([paper](https://arxiv.org/abs/2412.12496), [code](https://github.com/NUS-HPC-AI-Lab/R-MeeTo), [page](https://bdemo.github.io/R-MeeTo/))
 1. **Arxiv** Tackling Feature-Classifier Mismatch in Federated Learning via Prompt-Driven Feature Transformation.
@@ -58,13 +57,33 @@ X. Wu, J. Niu, X. Liu, **M. Shi**, G. Zhu, S. Tang
 K. Wang\*, **M. Shi**\*, Y. Zhou\*, Z. Yuan, Y. Shang, X. Peng, H. Zhang, Y. You
 ([paper](https://arxiv.org/abs/2405.17403), [code](https://github.com/NUS-HPC-AI-Lab/SpeeD))
 
-[Conference]
+🤝 Conference
 1. **ICASSP 2024** Federated CINN Clustering for Accurate Clustered Federated Learning. Y. Zhou, **M. Shi**, Y. Tian, Y. Li, Q. Ye, J. Lv ([paper](https://ieeexplore.ieee.org/abstract/document/10447282/))
 1. **NeurIPS 2023** PRIOR: Personalized Prior for Reactivating the Information Overlooked in Federated Learning. **M. Shi**, Y. Zhou, K. Wang, H. Zhang, S. Huang, Q. Ye, J. Lv ([paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5a3674849d6d6d23ac088b9a2552f323-Abstract-Conference.html), [code](https://github.com/BDeMo/pFedBreD_public))
 1. **ICONIP 2023** Unconstrained Feature Model and Its General Geometric Patterns in Federated Learning: Local Subspace Minority Collapse. **M. Shi**, Y. Zhou, Q. Ye, J. Lv ([paper](https://link.springer.com/chapter/10.1007/978-981-99-8132-8_34))
 1. **ICCV 2023** Communication-efficient Federated Learning with Single-Step Synthetic Features Compressor for Faster Convergence. Y. Zhou, **M. Shi**, Y. Li, Y. Sun, Q. Ye, J. Lv ([paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Communication-efficient_Federated_Learning_with_Single-Step_Synthetic_Features_Compressor_for_Faster_ICCV_2023_paper.html))
 
-[Journal]
+📕 Journal
 1. **InfoSci** DeFTA: A Plug-and-Play Peer-to-Peer Decentralized Federated Learning Framework. Y. Zhou, **M. Shi**, Y. Tian, Q. Ye, J. Lv ([paper](https://www.sciencedirect.com/science/article/pii/S002002552400495X))
 1. **Trans.ETCI** DLB: a dynamic load balance strategy for distributed training of deep neural networks. Q. Ye, Y. Zhou, **M. Shi**, Y. Sun, J. Lv ([paper](https://ieeexplore.ieee.org/abstract/document/9960865/))
 1. **JoSc** FLSGD: free local SGD with parallel synchronization. Q. Ye, Y. Zhou, **M. Shi**, J. Lv ([paper](https://link.springer.com/article/10.1007/s11227-021-04267-5))
+
+
+⏳ Early
+------
+[Please see the full list in Google Scholar](https://scholar.google.com/citations?user=B6f3ImkAAAAJ)
+
+🛎 Services
+======
+Reviewer: NeurIPs, ICLR, ICML, CVPR, ICCV, MM, ICPP, ICASSP, ICONIP; TNNLS, TCSVT, TPDS, Neurocomputing and others.
+
+🎈 Hobbits
+======
+📷 Photograph,
+⛺ Travel,
+🏸 Badminton,
+⚽ Football (Soccer),
+♟️ Chess and other Table-top Games,
+🎱 Billiards,
+🎮 Games,
+🔬 Study others besides AI.,
