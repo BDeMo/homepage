@@ -32,8 +32,8 @@ $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
 // customized font
-$my_font                    : $google, $calisto;
-$my_header_font             : Geneva, Garamond, "Lucida Bright";
+$my_font                    : $google, $bodoni;
+$my_header_font             : Geneva, Garamond, "Lucida Bright", $monospace;
 
 $sidebar_font               : $my_font;
 $navigator_font             : $my_font;
@@ -52,12 +52,12 @@ $type-size-3                : 1.172em;  // ~25.008px * 0.75
 $type-size-4                : 0.937em;   // ~20px * 0.75
 // $type-size-5                : 1em;      // ~16px
 $type-size-5                : 0.750em;      // ~16px * 0.75
-// $type-size-6                : 0.75em;   // ~12px
-$type-size-6                : 0.562em;   // ~12px * 0.75
-// $type-size-7                : 0.6875em; // ~11px
-$type-size-7                : 0.515em; // ~11px * 0.75
-// $type-size-8                : 0.625em;  // ~10px
-$type-size-8                : 0.468em;  // ~10px * 0.75
+$type-size-6                : 0.75em;   // ~12px
+// $type-size-6                : 0.562em;   // ~12px * 0.75
+$type-size-7                : 0.6875em; // ~11px
+// $type-size-7                : 0.515em; // ~11px * 0.75
+$type-size-8                : 0.625em;  // ~10px
+// $type-size-8                : 0.468em;  // ~10px * 0.75
 
 /* masthead properties */
 $masthead-height            : 70px;

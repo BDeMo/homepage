@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-If you think the one in the sidebar is too casual, I have a [formal version](images/a_pic_of_mine_2.jpg). You should focus more on the content below than here!
-
+ Here's the page (academic CV) about Mingjia (Samuel Jayden) Shi, 石明佳. An ENFP who shouldn't say too much, but especially wants to. If you think the one in the sidebar is too casual, I have a [formal version](images/a_pic_of_mine_2.jpg). You should focus more on the content below than here! Feel free to contact me for collaboration, discussion or just to say hi!
+ 
 👨‍🎓 Biography
 ======
 - It's the 2nd year (written in 2024) as an intern student in [NUS HPC-Lab](https://ai.comp.nus.edu.sg/), and I enojoy the challenges and interesting topics here (e.g. efficient AI, generative model, parameter generation and etc.).
@@ -19,7 +19,7 @@ If you think the one in the sidebar is too casual, I have a [formal version](ima
 🎉 Latest News
 ======
 - **Dec. 24**. <font color="red">Waiting for 2025 Fall PhD and projects for gap year.</font>
-- **Aug. 24**. Actively applying for a 2025 Fall PhD! If you are interested in a student familiar with theoretical analysis, generative model with extensive industry experiences as well, feel free to [ Mail](3101ihs@gmail.com)!
+- **Aug. 24**. Actively applying for a 2025 Fall PhD! If you are interested in a student familiar with theoretical analysis, generative model with extensive industry experiences as well, feel free to [Mail](3101ihs@gmail.com)!
 
 👣 Current Career
 ======
