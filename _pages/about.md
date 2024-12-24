@@ -27,8 +27,8 @@ During my research period, as an author and a reviewer of Top AI conferences and
 Research Interests
 ======
 - **Works in hands**. My works are mainly both theoretical analyses and corresponding methods about Efficient AI on Trends, Generative Models, AI Privacy and Safety and Federated Learning.
-- **Overall background**. A knowledge and research background about math+cs, system/control/information theory, deep learning thoeries, optimization and generalization.
-- **Addition**. There is a continuing interest in technical research as well as basic science research. Physics and other science disciplines are always beautiful.
+- **Overall background**. A knowledge and research background about math+cs, system/control/information theories, deep learning thoeries, optimization and generalization.
+- **More-interest**. There is a continuing interest in technical research as well as basic science research. Physics and other science disciplines are always beautiful.
 <!-- - **Distributed Learning and Optimization**: -->
 <!-- Distributed learning is the last one I majored in. The works explore the heterogeneity composition in federated learning primarily from the perspective of information composition, with methods towards information theory and optimization. -->
 <!-- - **Efficient AI**: -->
