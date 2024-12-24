@@ -9,25 +9,25 @@ redirect_from:
 
  Here's the page (academic CV) about Mingjia (Samuel Jayden) Shi, 石明佳 in Chinese. An ENFP who shouldn't say too much, but especially wants to. If you think the one in the sidebar is too casual, I have a [formal version](images/a_pic_of_mine_2.jpg). You should focus more on the content below than here! Feel free to contact me for collaboration, discussion or just to say hi!
 
-👨‍🎓 Biography
+**👨‍🎓 Biography**
 ---
 
 - It's the 2nd year (written in 2024) as an intern student in [NUS HPC-Lab](https://ai.comp.nus.edu.sg/), and I enojoy the challenges and interesting topics here (e.g. efficient AI, generative model, parameter generation and etc.).
 - From Sep. 2021 to June. 2024, I completed my master degree at Sichuan University majored in Artificial Intelligence, right where I had completed my 4-year bachelor's degree before, supervised by Prof. [Jiancheng Lv](https://center.dicalab.cn/). The majors of my career in Sichuan University are distributed optimization and learning (e.g., decentralized optimization and federated learning).
 
 
-🎉 Latest News
+**🎉 Latest News**
 ---
 
-- [Dec. 24] <font color="red">Waiting for 2025 Fall PhD and projects in my gap year.</font>
-- [Aug. 24] Actively applying for a 2025 Fall PhD! If you are interested in a student familiar with theoretical analysis, generative model with extensive industry experiences as well, feel free to [Mail](3101ihs@gmail.com)!
+- Dec. 24] <font color="red">Waiting for 2025 Fall PhD and projects in my gap year.</font>
+- Aug. 24] Actively applying for a 2025 Fall PhD! If you are interested in a student familiar with theoretical analysis, generative model with extensive industry experiences as well, feel free to [Mail](3101ihs@gmail.com)!
 
-👣 Current Career
+**👣 Current Career**
 ---
 
 During my research period, as an author and a reviewer of Top AI conferences and journals, I have appreciated the fascination and what I want to do, so I pursue a PhD career further.
 
-🔍 Research Interests
+**🔍 Research Interests**
 ---
 
 My research focus on the efficiency and 
@@ -44,7 +44,7 @@ My research focus on the efficiency and
 <!-- Another big hitter, LLM, and its practical generation tasks are also of my interests. A lot of industrial issues that need to be solved, effiicency, human value alignment and privacy. -->
 
 
-📄 Selected Publications
+**📄 Selected Publications**
 ---
 
 
@@ -85,12 +85,12 @@ K. Wang\*, <u>M. Shi</u>\*, Y. Zhou\*, Z. Yuan, Y. Shang, X. Peng, H. Zhang, Y. 
 📅 **Early**: 
 [Please see the full list in Google Scholar](https://scholar.google.com/citations?user=B6f3ImkAAAAJ)
 
-🛎 Services
+**🛎 Services**
 ---
 
 Reviewer: NeurIPs, ICLR, ICML, CVPR, ICCV, MM, ICPP, ICASSP, ICONIP; TNNLS, TCSVT, TPDS, Neurocomputing and others.
 
-🎈 Hobbits
+**🎈 Hobbits**
 ---
 
 📷 Photograph,
