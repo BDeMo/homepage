@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-If you think the left ones are too casual, I have a [formal](images/a_pic_of_mine_2.jpg) version too. You should focus more on the content below than here!
+If you think the ones in sidebar are too casual, I have a [formal version](images/a_pic_of_mine_2.jpg). You should focus more on the content below than here!
 
 Biography
 ======
