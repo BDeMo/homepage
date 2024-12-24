@@ -27,7 +27,7 @@ author:
   bio              : "↑ This guy has just finished research works and is now in the gym. [Casual]"
   location         : "Somewhere on the earth"
   employer         : "Intern in NUS HPC-Lab"
-  uri              : www.samjs.online # URL
+  uri              : "https://www.samjs.online" # URL
   email            : "samuel_jayden_shi@samjs.online" 
 
   # Academic websites
