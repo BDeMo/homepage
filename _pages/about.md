@@ -103,6 +103,7 @@ Reviewer: NeurIPs, ICLR, ICML, CVPR, ICCV, MM, ICPP, ICASSP, ICONIP; TNNLS, TCSV
 
 📷 Photograph,
 ⛺ Travel,
+🎵 Music,
 🏸 Badminton,
 ⚽ Football (Soccer),
 ♟️ Chess and other Table-top Games,
