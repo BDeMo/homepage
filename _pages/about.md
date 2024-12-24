@@ -18,7 +18,7 @@ redirect_from:
 
 🎉 Latest News
 ======
-- **Dec. 24**. <font color="red">Waiting for 2025 Fall PhD and projects for gap year.</font>
+- **Dec. 24**. <font color="red">Waiting for 2025 Fall PhD and projects in my gap year.</font>
 - **Aug. 24**. Actively applying for a 2025 Fall PhD! If you are interested in a student familiar with theoretical analysis, generative model with extensive industry experiences as well, feel free to [Mail](3101ihs@gmail.com)!
 
 👣 Current Career
