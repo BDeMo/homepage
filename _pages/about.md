@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
- Here's the page (academic CV) about Mingjia (Samuel Jayden) Shi, 石明佳. An ENFP who shouldn't say too much, but especially wants to. If you think the one in the sidebar is too casual, I have a [formal version](images/a_pic_of_mine_2.jpg). You should focus more on the content below than here! Feel free to contact me for collaboration, discussion or just to say hi!
- 
+ Here's the page (academic CV) about Mingjia (Samuel Jayden) Shi, 石明佳 in Chinese. An ENFP who shouldn't say too much, but especially wants to. If you think the one in the sidebar is too casual, I have a [formal version](images/a_pic_of_mine_2.jpg). You should focus more on the content below than here! Feel free to contact me for collaboration, discussion or just to say hi!
+
 👨‍🎓 Biography
 ======
 - It's the 2nd year (written in 2024) as an intern student in [NUS HPC-Lab](https://ai.comp.nus.edu.sg/), and I enojoy the challenges and interesting topics here (e.g. efficient AI, generative model, parameter generation and etc.).
