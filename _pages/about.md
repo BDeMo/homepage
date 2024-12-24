@@ -14,8 +14,8 @@ Biography
 - It's the 2nd year (written in 2024) as an intern student in [NUS HPC-Lab](https://ai.comp.nus.edu.sg/), and I enojoy the challenges and interesting topics here (e.g. efficient AI, generative model, parameter generation and etc.).
 - From Sep. 2021 to June. 2024, I completed my master degree at Sichuan University majored in Artificial Intelligence, right where I had completed my 4-year bachelor's degree before, supervised by Prof. [Jiancheng Lv](https://center.dicalab.cn/). The majors of my career in Sichuan University are distributed optimization and learning (e.g., decentralized optimization and federated learning).
 
-
 ---
+
 Latest News
 ======
 - **DDLs After**. <font color="red">Waiting for 2025 Fall PhD Interviews.</font>
@@ -41,6 +41,7 @@ Research Interests
 <!-- Another big hitter, LLM, and its practical generation tasks are also of my interests. A lot of industrial issues that need to be solved, effiicency, human value alignment and privacy. -->
 
 ---
+
 Selected Publications
 ======
 
