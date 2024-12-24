@@ -19,8 +19,8 @@ redirect_from:
 🎉 Latest News
 ---
 
-- **Dec. 24**. <font color="red">Waiting for 2025 Fall PhD and projects in my gap year.</font>
-- **Aug. 24**. Actively applying for a 2025 Fall PhD! If you are interested in a student familiar with theoretical analysis, generative model with extensive industry experiences as well, feel free to [Mail](3101ihs@gmail.com)!
+- [Dec. 24] <font color="red">Waiting for 2025 Fall PhD and projects in my gap year.</font>
+- [Aug. 24] Actively applying for a 2025 Fall PhD! If you are interested in a student familiar with theoretical analysis, generative model with extensive industry experiences as well, feel free to [Mail](3101ihs@gmail.com)!
 
 👣 Current Career
 ---
@@ -51,25 +51,35 @@ My research focus on the efficiency and
 📅 **2024 and Before**:
 
 *Released Pre-Print* 📠
-1. *Arxiv* Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training. Arxiv. <u>M. Shi</u>\*, Y. Zhou*, R. Yu, Z. Li, Z. Liang, X. Zhao, X. Peng, T Rajpurohit, R. Vedantam, W. Zhao, K. Wang, Y. You.
+1. **Arxiv** Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training. Arxiv. <u>M. Shi</u>\*, Y. Zhou*, R. Yu, Z. Li, Z. Liang, X. Zhao, X. Peng, T Rajpurohit, R. Vedantam, W. Zhao, K. Wang, Y. You.
 ([paper](https://arxiv.org/abs/2412.12496), [code](https://github.com/NUS-HPC-AI-Lab/R-MeeTo), [page](https://bdemo.github.io/R-MeeTo/))
-1. *Arxiv* Tackling Feature-Classifier Mismatch in Federated Learning via Prompt-Driven Feature Transformation.
+<!-- **Arxiv** -->
+1. **Arxiv** Tackling Feature-Classifier Mismatch in Federated Learning via Prompt-Driven Feature Transformation.
 X. Wu, J. Niu, X. Liu, <u>M. Shi</u>, G. Zhu, S. Tang
 ([paper](https://arxiv.org/abs/2407.16139))
-1. *Arxiv* A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training.
+<!-- **Arxiv** -->
+1. **Arxiv** A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training.
 K. Wang\*, <u>M. Shi</u>\*, Y. Zhou\*, Z. Yuan, Y. Shang, X. Peng, H. Zhang, Y. You
 ([paper](https://arxiv.org/abs/2405.17403), [code](https://github.com/NUS-HPC-AI-Lab/SpeeD))
+<!-- **Arxiv** -->
 
 *Conference* 🤝
-1. *ICASSP 2024* Federated CINN Clustering for Accurate Clustered Federated Learning. Y. Zhou, <u>M. Shi</u>, Y. Tian, Y. Li, Q. Ye, J. Lv ([paper](https://ieeexplore.ieee.org/abstract/document/10447282/))
-1. *NeurIPS 2023* PRIOR: Personalized Prior for Reactivating the Information Overlooked in Federated Learning. <u>M. Shi</u>, Y. Zhou, K. Wang, H. Zhang, S. Huang, Q. Ye, J. Lv ([paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5a3674849d6d6d23ac088b9a2552f323-Abstract-Conference.html), [code](https://github.com/BDeMo/pFedBreD_public))
-1. *ICONIP 2023* Unconstrained Feature Model and Its General Geometric Patterns in Federated Learning: Local Subspace Minority Collapse. <u>M. Shi</u>, Y. Zhou, Q. Ye, J. Lv ([paper](https://link.springer.com/chapter/10.1007/978-981-99-8132-8_34))
-1. *ICCV 2023* Communication-efficient Federated Learning with Single-Step Synthetic Features Compressor for Faster Convergence. Y. Zhou, <u>M. Shi</u>, Y. Li, Y. Sun, Q. Ye, J. Lv ([paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Communication-efficient_Federated_Learning_with_Single-Step_Synthetic_Features_Compressor_for_Faster_ICCV_2023_paper.html))
+1. **ICASSP 2024** Federated CINN Clustering for Accurate Clustered Federated Learning. Y. Zhou, <u>M. Shi</u>, Y. Tian, Y. Li, Q. Ye, J. Lv ([paper](https://ieeexplore.ieee.org/abstract/document/10447282/))
+<!-- **ICASSP 2024** -->
+1. **NeurIPS 2023** PRIOR: Personalized Prior for Reactivating the Information Overlooked in Federated Learning. <u>M. Shi</u>, Y. Zhou, K. Wang, H. Zhang, S. Huang, Q. Ye, J. Lv ([paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5a3674849d6d6d23ac088b9a2552f323-Abstract-Conference.html), [code](https://github.com/BDeMo/pFedBreD_public))
+<!-- **NeurIPS 2023** -->
+1. **ICONIP 2023** Unconstrained Feature Model and Its General Geometric Patterns in Federated Learning: Local Subspace Minority Collapse. <u>M. Shi</u>, Y. Zhou, Q. Ye, J. Lv ([paper](https://link.springer.com/chapter/10.1007/978-981-99-8132-8_34))
+<!-- **ICONIP 2023** -->
+1. **ICCV 2023** Communication-efficient Federated Learning with Single-Step Synthetic Features Compressor for Faster Convergence. Y. Zhou, <u>M. Shi</u>, Y. Li, Y. Sun, Q. Ye, J. Lv ([paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Communication-efficient_Federated_Learning_with_Single-Step_Synthetic_Features_Compressor_for_Faster_ICCV_2023_paper.html))
+<!-- **ICCV 2023** -->
 
 *Journal* 📕
-1. *InfoSci* DeFTA: A Plug-and-Play Peer-to-Peer Decentralized Federated Learning Framework. Y. Zhou, <u>M. Shi</u>, Y. Tian, Q. Ye, J. Lv ([paper](https://www.sciencedirect.com/science/article/pii/S002002552400495X))
-1. *Trans.ETCI* DLB: a dynamic load balance strategy for distributed training of deep neural networks. Q. Ye, Y. Zhou, <u>M. Shi</u>, Y. Sun, J. Lv ([paper](https://ieeexplore.ieee.org/abstract/document/9960865/))
-1. *JoSc* FLSGD: free local SGD with parallel synchronization. Q. Ye, Y. Zhou, <u>M. Shi</u>, J. Lv ([paper](https://link.springer.com/article/10.1007/s11227-021-04267-5))
+1. **InfoSci** DeFTA: A Plug-and-Play Peer-to-Peer Decentralized Federated Learning Framework. Y. Zhou, <u>M. Shi</u>, Y. Tian, Q. Ye, J. Lv ([paper](https://www.sciencedirect.com/science/article/pii/S002002552400495X))
+<!-- **InfoSci** -->
+1. **Trans.ETCI** DLB: a dynamic load balance strategy for distributed training of deep neural networks. Q. Ye, Y. Zhou, <u>M. Shi</u>, Y. Sun, J. Lv ([paper](https://ieeexplore.ieee.org/abstract/document/9960865/))
+<!-- **Trans.ETCI** -->
+1. **JoSc** FLSGD: free local SGD with parallel synchronization. Q. Ye, Y. Zhou, <u>M. Shi</u>, J. Lv ([paper](https://link.springer.com/article/10.1007/s11227-021-04267-5))
+<!-- **JoSc** -->
 
 
 📅 **Early**: 
