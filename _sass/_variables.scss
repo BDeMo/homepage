@@ -32,8 +32,8 @@ $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
 // customized font
-$my_font                    : $google, $bodoni;
-$my_header_font             : $georgia, Geneva, Garamond, "Lucida Bright";
+$my_font                    : Avenir, Univers, Eurostile, $google, $bodoni;
+$my_header_font             : $my_font, $georgia, Geneva, Garamond, "Lucida Bright";
 
 $sidebar_font               : $my_font;
 $navigator_font             : $my_font;
