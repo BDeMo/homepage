@@ -31,7 +31,7 @@ During my research period, as an author and a reviewer of Top AI conferences and
 ---
 
 My research focus on the efficiency and 
-- 🤝 **Works in hands**. My works are mainly both theoretical analyses and corresponding methods about Efficient AI on Trends, Generative Models, AI Privacy and Safety and Federated Learning.
+- 🖐️ **Works in hands**. My works are mainly both theoretical analyses and corresponding methods about Efficient AI on Trends, Generative Models, AI Privacy and Safety and Federated Learning.
 - 🎓 **Overall background**. A knowledge and research background about math+cs, system/control/information theories, deep learning thoeries, optimization and generalization.
 - 🌟 **More-interest**. There is a continuing interest in technical research as well as basic science research. Physics and other science disciplines are always beautiful.
 <!-- - **Distributed Learning and Optimization**: -->
@@ -50,7 +50,7 @@ My research focus on the efficiency and
 
 📅 **2024 and Before**:
 
-*Released Pre-Print* 📠
+*Released Pre-Print*
 1. **Arxiv** Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training.
 <u>M. Shi</u>\*, Y. Zhou*, R. Yu, Z. Li, Z. Liang, X. Zhao, X. Peng, T Rajpurohit, R. Vedantam, W. Zhao, K. Wang, Y. You.
 ([paper](https://arxiv.org/abs/2412.12496), [code](https://github.com/NUS-HPC-AI-Lab/R-MeeTo), [page](https://bdemo.github.io/R-MeeTo/))
@@ -64,7 +64,7 @@ K. Wang\*, <u>M. Shi</u>\*, Y. Zhou\*, Z. Yuan, Y. Shang, X. Peng, H. Zhang, Y. 
 ([paper](https://arxiv.org/abs/2405.17403), [code](https://github.com/NUS-HPC-AI-Lab/SpeeD))
 <!-- **Arxiv** -->
 
-*Conference* 🤝
+*Conference*
 1. **ICASSP 2024** Federated CINN Clustering for Accurate Clustered Federated Learning.
 Y. Zhou, <u>M. Shi</u>, Y. Tian, Y. Li, Q. Ye, J. Lv ([paper](https://ieeexplore.ieee.org/abstract/document/10447282/))
 <!-- **ICASSP 2024** -->
@@ -78,7 +78,7 @@ Y. Zhou, <u>M. Shi</u>, Y. Tian, Y. Li, Q. Ye, J. Lv ([paper](https://ieeexplore
 Y. Zhou, <u>M. Shi</u>, Y. Li, Y. Sun, Q. Ye, J. Lv ([paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Communication-efficient_Federated_Learning_with_Single-Step_Synthetic_Features_Compressor_for_Faster_ICCV_2023_paper.html))
 <!-- **ICCV 2023** -->
 
-*Journal* 📕
+*Journal*
 1. **InfoSci** DeFTA: A Plug-and-Play Peer-to-Peer Decentralized Federated Learning Framework.
 Y. Zhou, <u>M. Shi</u>, Y. Tian, Q. Ye, J. Lv ([paper](https://www.sciencedirect.com/science/article/pii/S002002552400495X))
 <!-- **InfoSci** -->
