@@ -19,7 +19,7 @@ redirect_from:
 **🎉 Latest News**
 ---
 
-- [Dec. 24] <font color="red">Waiting for 2025 Fall PhD and projects in my gap year.</font>
+- [Dec. 24] Waiting for 2025 Fall PhD and projects in my gap year.
 - [Aug. 24] Actively applying for a 2025 Fall PhD! If you are interested in a student familiar with theoretical analysis, generative model with extensive industry experiences as well, feel free to [Mail](3101ihs@gmail.com)!
 
 **👣 Current Career**
@@ -30,7 +30,7 @@ During my research period, as an author and a reviewer of Top AI conferences and
 **🔍 Research Interests**
 ---
 
-My research focus on the efficiency and 
+My research focus on the AI efficiency and ...
 - 🖐️ **Works in hands**. My works are mainly both theoretical analyses and corresponding methods about Efficient AI on Trends, Generative Models, AI Privacy and Safety and Federated Learning.
 - 🎓 **Overall background**. A knowledge and research background about math+cs, system/control/information theories, deep learning thoeries, optimization and generalization.
 - 🌟 **More-interest**. There is a continuing interest in technical research as well as basic science research. Physics and other science disciplines are always beautiful.
