@@ -25,9 +25,8 @@ redirect_from:
 <summary>Old ones before 2025</summary>
 <br>
 
-[Dec. 24] Waiting for 2025 Fall PhD and projects in my gap year.
-<br>
-[Aug. 24] Actively applying for a 2025 Fall PhD! If you are interested in a student familiar with theoretical analysis, generative model with extensive industry experiences as well, feel free to [Mail](3101ihs@gmail.com)!
+- [Dec. 24] Waiting for 2025 Fall PhD and projects in my gap year.
+- [Aug. 24] Actively applying for a 2025 Fall PhD! If you are interested in a student familiar with theoretical analysis, generative model with extensive industry experiences as well, feel free to [Mail](3101ihs@gmail.com)!
 
 </details>
 
