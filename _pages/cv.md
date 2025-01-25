@@ -22,6 +22,10 @@ Work experience
   * Duties includes: Multimodal LLM and Token efficiency
   * Supervisor: Kaipeng Zhang  -->
 
+* Winter 2025: Intern Researcher
+  * Houmo AI
+  * DUties includes: Research in Efficient AI
+
 * Winter 2023: Intern Researcher
   * Lenovo AI Reasearch in Beijing
   * Duties includes: Research in Federated Learning and Videos Analysis
