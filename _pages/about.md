@@ -107,7 +107,7 @@ Q. Ye, Y. Zhou, <u>M. Shi</u>, J. Lv ([paper](https://link.springer.com/article/
 
 Reviewer: NeurIPs, ICLR, ICML, CVPR, ICCV, MM, ICPP, ICASSP, ICONIP; TNNLS, TCSVT, TPDS, TKDE, Neurocomputing and others.
 
-**🎈 Hobbits**
+**🎈 Hobbies**
 ---
 
 📷 Photograph,
