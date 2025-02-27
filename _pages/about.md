@@ -65,7 +65,7 @@ K. Wang\*, <u>M. Shi</u>\*, Y. Zhou\*, Z. Yuan, Y. Shang, X. Peng, H. Zhang, Y. 
 <!-- **CVPR 2025** -->
 
 2. **CVPR 2025** Ferret: An Efficient Online Continual Learning Framework under Varying Memory Constraints.
-Y. Zhou, Y. Tian, J. Lv, M. Shi, Y. Li, Q. Ye, S. Zhang, J. Lv
+Y. Zhou, Y. Tian, J. Lv, <u>M. Shi</u>, Y. Li, Q. Ye, S. Zhang, J. Lv
 ([paper](), [code]() to be released)
 <!-- **CVPR 2025** -->
 
