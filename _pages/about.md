@@ -12,6 +12,7 @@ redirect_from:
 **👨‍🎓 Biography**
 ---
 
+- Internship in [HoumoAI](https://www.houmoai.com/), researching on topics related to real-world and industrial applications (e.g., efficient AI) here brings me new challendges here.
 - It's the 2nd year (written in 2024) as an intern student in [NUS HPC-Lab](https://ai.comp.nus.edu.sg/), and I enojoy the challenges and interesting topics here (e.g. efficient AI, generative model, parameter generation and etc.).
 - From Sep. 2021 to June. 2024, I completed my master degree at Sichuan University majored in Artificial Intelligence, right where I had completed my 4-year bachelor's degree before, supervised by Prof. [Jiancheng Lv](https://center.dicalab.cn/). The majors of my career in Sichuan University are distributed optimization and learning (e.g., decentralized optimization and federated learning).
 
@@ -56,8 +57,19 @@ My research focus on the AI efficiency and ...
 **📄 Selected Publications**
 ---
 
+📅 **2025**:
 
-📅 **2024 and Before**:
+1. **CVPR 2025** A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training.
+K. Wang\*, <u>M. Shi</u>\*, Y. Zhou\*, Z. Yuan, Y. Shang, X. Peng, H. Zhang, Y. You
+([paper](https://arxiv.org/abs/2405.17403), [code](https://github.com/NUS-HPC-AI-Lab/SpeeD))
+<!-- **CVPR 2025** -->
+
+2. **CVPR 2025** Ferret: An Efficient Online Continual Learning Framework under Varying Memory Constraints.
+Y. Zhou, Y. Tian, J. Lv, M. Shi, Y. Li, Q. Ye, S. Zhang, J. Lv
+([paper](), [code]() to be released)
+<!-- **CVPR 2025** -->
+
+📅 **Early**:
 
 *Released Pre-Print*
 1. **Arxiv** Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training.
@@ -67,10 +79,6 @@ My research focus on the AI efficiency and ...
 1. **Arxiv** Tackling Feature-Classifier Mismatch in Federated Learning via Prompt-Driven Feature Transformation.
 X. Wu, J. Niu, X. Liu, <u>M. Shi</u>, G. Zhu, S. Tang
 ([paper](https://arxiv.org/abs/2407.16139))
-<!-- **Arxiv** -->
-1. **Arxiv** A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training.
-K. Wang\*, <u>M. Shi</u>\*, Y. Zhou\*, Z. Yuan, Y. Shang, X. Peng, H. Zhang, Y. You
-([paper](https://arxiv.org/abs/2405.17403), [code](https://github.com/NUS-HPC-AI-Lab/SpeeD))
 <!-- **Arxiv** -->
 
 *Conference*
@@ -98,8 +106,6 @@ Q. Ye, Y. Zhou, <u>M. Shi</u>, Y. Sun, J. Lv ([paper](https://ieeexplore.ieee.or
 Q. Ye, Y. Zhou, <u>M. Shi</u>, J. Lv ([paper](https://link.springer.com/article/10.1007/s11227-021-04267-5))
 <!-- **JoSc** -->
 
-
-📅 **Early**: 
 [Please see the full list in Google Scholar](https://scholar.google.com/citations?user=B6f3ImkAAAAJ)
 
 **🛎 Services**
