@@ -60,16 +60,21 @@ My research focus on the AI efficiency and ...
 📅 **2025**:
 
 1. **CVPR 2025** A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training.
-K. Wang\*, <u>M. Shi</u>\*, Y. Zhou\*, Z. Yuan, Y. Shang, X. Peng, H. Zhang, Y. You
+K. Wang\*, <u>M. Shi</u>\*, Y. Zhou, Z. Li, Z. Yuan, Y. Shang, X. Peng, H. Zhang, Y. You
 ([paper](https://arxiv.org/abs/2405.17403), [code](https://github.com/NUS-HPC-AI-Lab/SpeeD))
 <!-- **CVPR 2025** -->
 
 2. **CVPR 2025** Ferret: An Efficient Online Continual Learning Framework under Varying Memory Constraints.
 Y. Zhou, Y. Tian, J. Lv, <u>M. Shi</u>, Y. Li, Q. Ye, S. Zhang, J. Lv
-([paper](), [code]() to be released)
+([paper]() and [code]() to be released)
 <!-- **CVPR 2025** -->
 
-📅 **Early**:
+3. **TNNLS** E-3SFC: Communication-Efficient Federated Learning With Double-Way Features Synthesizing.
+Y. Zhou*, Y. Tian*, <u>M. Shi</u>, Y. Li, Y. Sun, Q. Ye, J. Lv
+([paper](https://arxiv.org/pdf/2502.03092), [code]() to be released)
+
+
+📅 **Early Selected**:
 
 *Released Pre-Print*
 1. **Arxiv** Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training.
