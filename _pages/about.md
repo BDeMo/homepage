@@ -73,6 +73,8 @@ Y. Zhou, Y. Tian, J. Lv, <u>M. Shi</u>, Y. Li, Q. Ye, S. Zhang, J. Lv
 Y. Zhou*, Y. Tian*, <u>M. Shi</u>, Y. Li, Y. Sun, Q. Ye, J. Lv
 ([paper](https://arxiv.org/pdf/2502.03092), [code]() to be released)
 
+4. **Arxiv** GSQ-Tuning: Group-Shared Exponents Integer in Fully Quantized Training for LLMs On-Device Fine-tuning. S. Zhou*, S. Wang*, Z. Yuan*, M. Shi, Y. Shang, D. Yang ([paper](https://arxiv.org/abs/2502.12913), [code]() to be released)
+
 
 📅 **Early Selected**:
 
