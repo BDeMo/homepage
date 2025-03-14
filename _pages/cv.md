@@ -37,7 +37,7 @@ Work experience
 
 * Summer 2018: Intern Researcher
   * Lenovo Reasearch in Chengdu
-  * Duties included: Low Power Developments
+  * Duties included: Low Power Development
   
 <!-- Skills
 ======
