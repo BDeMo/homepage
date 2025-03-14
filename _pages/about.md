@@ -38,14 +38,14 @@ redirect_from:
 **👣 Current Career**
 ---
 
-During my research period, as an author and a reviewer of Top AI conferences and journals, I have appreciated the fascination and what I want to do, so I pursue a PhD career further. I am busy with my visa now.
+During my research period, as an author and a reviewer of Top conferences and journals, I have appreciated the fascination and what I want to do, so I pursue a PhD career further. I am busy with my visa now.
 
 **🔍 Research Interests**
 ---
 
-My research focus on the AI efficiency and ...
+My research focus on the Resource Cost Reduction and ...
 <!-- - 🖐️ **Works in hands**. My works are mainly both theoretical analyses and corresponding methods about Efficient AI on Trends, Generative Models, AI Privacy and Safety and Federated Learning. -->
-- 🖐️ **Works in hands**. My works are mainly both theoretical analyses and corresponding methods about Resource Cost Reduction and Efficient AI on Trends, AI Privacy and Safety.
+- 🖐️ **Works in hands**. My works are mainly both theoretical analyses and corresponding methods about Resource Cost Reduction and Efficiency on Trends, AI Privacy and Safety.
 - 🎓 **Overall background**. A knowledge and research background about math+cs, system/control/information theories, deep learning thoeries, optimization and generalization analyses.
 - 🌟 **More-interest**. There is a continuing interest in technical research as well as basic science research. Physics and other science disciplines are always beautiful.
 <!-- - **Distributed Learning and Optimization**: -->
@@ -135,4 +135,4 @@ Reviewer: NeurIPs, ICLR, ICML, CVPR, ICCV, MM, ICPP, ICASSP, ICONIP; TNNLS, TCSV
 ♟️ Chess and other Table-top Games,
 🎱 Billiards,
 🎮 Games,
-🔬 Study others besides AI.,
+🔬 Study on interesting topics,
