@@ -13,8 +13,10 @@ redirect_from:
 ---
 
 <!-- - Internship in [HoumoAI](https://www.houmoai.com/), researching on topics related to real-world and industrial applications (e.g., efficient AI) here brings me new challendges here. -->
-- It's the 2nd year (written in 2024) as an intern student in [NUS HPC-Lab](https://ai.comp.nus.edu.sg/), and I enojoy the challenges and interesting topics here (e.g. efficient AI, generative model, parameter generation and etc.).
-- From Sep. 2021 to June. 2024, I completed my master degree at Sichuan University majored in Artificial Intelligence, right where I had completed my 4-year bachelor's degree before, supervised by Prof. [Jiancheng Lv](https://center.dicalab.cn/). The majors of my career in Sichuan University are distributed optimization and learning (e.g., decentralized optimization and federated learning).
+<!-- - It's the 2nd year (written in 2024) as an intern student in [NUS HPC-Lab](https://ai.comp.nus.edu.sg/), and I enojoy the challenges and interesting topics here (e.g. efficient AI, generative model, parameter generation and etc.). -->
+- It's the 2nd year (written in 2024) as an intern student in [NUS HPC-Lab](https://ai.comp.nus.edu.sg/), and I enojoy the challenges and interesting topics here (e.g. Resource Cost Reduction and Efficient AI, AI Safety and Privacy and etc.).
+<!-- - From Sep. 2021 to June. 2024, I completed my master degree at Sichuan University majored in Artificial Intelligence, right where I had completed my 4-year bachelor's degree before, supervised by Prof. [Jiancheng Lv](https://center.dicalab.cn/). The majors of my career in Sichuan University are distributed optimization and learning (e.g., decentralized optimization and federated learning). -->
+- From Sep. 2021 to June. 2024, I completed my master degree at Sichuan University majored in Artificial Intelligence (AI Safety and Privacy), right where I had completed my 4-year bachelor's degree before, supervised by Prof. Jiancheng Lv. The majors of my career in Sichuan University are federated learning (i.e., Low Power Large System and AI Safety and Privacy).
 
 
 **🎉 Latest News**
@@ -28,7 +30,8 @@ redirect_from:
 
 [Dec. 24] Waiting for 2025 Fall PhD and projects in my gap year.
 <br>
-[Aug. 24] Actively applying for a 2025 Fall PhD! If you are interested in a student familiar with theoretical analysis, generative model with extensive industry experiences as well, feel free to mail!
+<!-- [Aug. 24] Actively applying for a 2025 Fall PhD! If you are interested in a student familiar with theoretical analysis, generative model with extensive industry experiences as well, feel free to mail! -->
+[Aug. 24] Actively applying for a 2025 Fall PhD! If you are interested in a student familiar with theoretical analysis, feel free to mail!
 
 </details>
 
