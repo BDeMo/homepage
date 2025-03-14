@@ -29,11 +29,11 @@ Work experience
 * Winter 2023: Intern Researcher
   * Lenovo AI Reasearch in Beijing
   <!-- * Duties includes: Research on  Federated Learning and Videos Analysis -->
-  * Duties includes: Research on Resource Cost Reduction and Efficient, AI Privacy and Safety on AI
+  * Duties includes: Research on  Resource Cost Reduction, AI Privacy and Safety
 
 * Winter 2022: Intern Student
   * NUS HPC-AI Lab
-  * Duties includes: Research on Efficient AI
+  * Duties includes: Research on Resource Cost Reduction
 
 * Summer 2018: Intern Researcher
   * Lenovo Reasearch in Chengdu
