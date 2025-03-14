@@ -23,8 +23,8 @@ Work experience
   * Supervisor: Kaipeng Zhang  -->
 
 * Winter 2025: Intern Researcher
-  * HoumoAI
-  * DUties includes: Research on Resource Cost Reduction and Efficient AI
+  * Houmoai
+  * DUties includes: Research on Resource Cost Reduction
 
 * Winter 2023: Intern Researcher
   * Lenovo AI Reasearch in Beijing
