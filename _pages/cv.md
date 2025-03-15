@@ -24,18 +24,18 @@ Work experience
 
 * Winter 2025: Intern Researcher
   * Houmoai
-  * DUties includes: Research on Resource Cost Reduction
+  * DUties includes: Research on Resource Preserving
 
 * Winter 2023: Intern Researcher
   <!-- * Lenovo AI Reasearch in Beijing -->
   * Lenovo Reasearch in Beijing
   <!-- * Duties includes: Research on  Federated Learning and Videos Analysis -->
-  * Duties includes: Research on  Resource Cost Reduction, AI Privacy and Safety
+  * Duties includes: Research on Resource Preserving, AI Privacy and Safety
 
 * Winter 2022: Intern Student
   * NUS HPC Lab
   <!-- * NUS HPC-AI Lab -->
-  * Duties includes: Research on Resource Cost Reduction
+  * Duties includes: Research on Resource Preserving
 
 * Summer 2018: Intern Researcher
   * Lenovo Reasearch in Chengdu
