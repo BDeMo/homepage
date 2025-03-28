@@ -14,9 +14,9 @@ redirect_from:
 
 <!-- - Internship in [HoumoAI](https://www.houmoai.com/), researching on topics related to real-world and industrial applications (e.g., efficient AI) here brings me new challendges here. -->
 <!-- - It's the 2nd year (written in 2024) as an intern student in [NUS HPC-Lab](https://ai.comp.nus.edu.sg/), and I enojoy the challenges and interesting topics here (e.g. efficient AI, generative model, parameter generation and etc.). -->
-- It's the 2nd year (written in 2024) as an intern student in [NUS HPC-Lab](https://ai.comp.nus.edu.sg/), and I enojoy the challenges and interesting topics here (e.g. Resource Preserving and Efficiency, AI Safety and Privacy and etc.).
+- It's the 2nd year (written in 2024) as an intern student in [NUS HPC-Lab](https://ai.comp.nus.edu.sg/), and I enojoy the challenges and interesting topics here (e.g. Resource Preserving and Efficiency.).
 <!-- - From Sep. 2021 to June. 2024, I completed my master degree at Sichuan University majored in Artificial Intelligence, right where I had completed my 4-year bachelor's degree before, supervised by Prof. [Jiancheng Lv](https://center.dicalab.cn/). The majors of my career in Sichuan University are distributed optimization and learning (e.g., decentralized optimization and federated learning). -->
-- From Sep. 2021 to June. 2024, I completed my master degree at Sichuan University majored in Artificial Intelligence (AI Safety and Privacy), right where I had completed my 4-year bachelor's degree before, supervised by Prof. Jiancheng Lv. The majors of my career in Sichuan University are federated learning (i.e., Low Power Large System and AI Safety and Privacy).
+- From Sep. 2021 to June. 2024, I completed my master degree at Sichuan University majored in Artificial Intelligence (Data Science), right where I had completed my 4-year bachelor's degree before, supervised by Prof. Jiancheng Lv. The majors of my career in Sichuan University are federated learning (i.e., Decentralized Data Analyses and Large System).
 
 
 **🎉 Latest News**
@@ -45,7 +45,7 @@ During my research period, as an author and a reviewer of Top conferences and jo
 
 My research focus on Resource Preserving and ...
 <!-- - 🖐️ **Works in hands**. My works are mainly both theoretical analyses and corresponding methods about Efficient AI on Trends, Generative Models, AI Privacy and Safety and Federated Learning. -->
-- 🖐️ **Works in hands**. My works are mainly both theoretical analyses and corresponding methods about Resource Preserving and Efficiency on Trends, AI Privacy and Safety.
+- 🖐️ **Works in hands**. My works are mainly both theoretical analyses and corresponding methods about Resource Preserving and Efficiency on Trends.
 - 🎓 **Overall background**. A knowledge and research background about math+cs, system/control/information theories, deep learning thoeries, optimization and generalization analyses.
 - 🌟 **More-interest**. There is a continuing interest in technical research as well as basic science research. Physics and other science disciplines are always beautiful.
 <!-- - **Distributed Learning and Optimization**: -->
@@ -90,6 +90,10 @@ Y. Zhou*, Y. Tian*, <u>M. Shi</u>, Y. Li, Y. Sun, Q. Ye, J. Lv
 1. **Arxiv** Tackling Feature-Classifier Mismatch in Federated Learning via Prompt-Driven Feature Transformation.
 X. Wu, J. Niu, X. Liu, <u>M. Shi</u>, G. Zhu, S. Tang
 ([paper](https://arxiv.org/abs/2407.16139))
+<!-- **Arxiv** -->
+1. **Arxiv** GSQ-Tuning: Group-Shared Exponents Integer in Fully Quantized Training for LLMs On-Device Fine-tuning.
+S. Zhou*, S. Wang*, Z. Yuan*, M. Shi, Y. Shang, D. Yang
+([paper](https://arxiv.org/abs/2502.12913))
 <!-- **Arxiv** -->
 
 *Conference*
