@@ -69,15 +69,15 @@ My research focus on Resource Preserving and ...
 📅 **2025**:
 
 1. **Arxiv 2025** Drag-and-Drop LLMs: Zero-Shot Prompt-to-Weights.
-Z. Liang, D. Tang, Y. Zhou, X. Zhao, M. Shi, W. Zhao, Z. Li, P. Wang, K. Schürholt, D. Borth, M. M. Bronstein, Y. You, Z. Wang, K. Wang
+Z. Liang, D. Tang, Y. Zhou, X. Zhao, <u>M. Shi,</u> W. Zhao, Z. Li, P. Wang, K. Schürholt, D. Borth, M. M. Bronstein, Y. You, Z. Wang, K. Wang
 ([paper](https://arxiv.org/abs/2506.16406))
 1. **Arxiv 2025** DD-ranking: Rethinking the evaluation of dataset distillation.
-Z. Li, X. Zhong, S. Khaki, Z. Liang, Y. Zhou, M. Shi, Z. Wang, X. Zhao, W. Zhao, Z. Qin, M. Wu, P. Zhou, H. Wang, D. J. Zhang, J. Liu, S. Wang, D. Liu, L. Zhang, G. Li, K. Wang, Z. Zhu, Z. Ma, J. T. Zhou, J. Lv, Y. Jin, P. Wang, K. Zhang, L. Lyu, Y. Huang, Z. Akata, Z. Deng, X. Wu, G. Cazenavette, Y. Shang, J. Cui, J. Gu, Q. Zheng, H. Ye, S. Wang, X. Wang, Y. Yan, A. Yao, M. Z. Shou, T. Chen, H. Bilen, B. Mirzasoleiman, M. Kellis, K. N. Plataniotis, Z. Wang, B. Zhao, Y. You, K. Wang
+Z. Li, X. Zhong, S. Khaki, Z. Liang, Y. Zhou, <u>M. Shi,</u> Z. Wang, X. Zhao, W. Zhao, Z. Qin, M. Wu, P. Zhou, H. Wang, D. J. Zhang, J. Liu, S. Wang, D. Liu, L. Zhang, G. Li, K. Wang, Z. Zhu, Z. Ma, J. T. Zhou, J. Lv, Y. Jin, P. Wang, K. Zhang, L. Lyu, Y. Huang, Z. Akata, Z. Deng, X. Wu, G. Cazenavette, Y. Shang, J. Cui, J. Gu, Q. Zheng, H. Ye, S. Wang, X. Wang, Y. Yan, A. Yao, M. Z. Shou, T. Chen, H. Bilen, B. Mirzasoleiman, M. Kellis, K. N. Plataniotis, Z. Wang, B. Zhao, Y. You, K. Wang
 ([paper](https://arxiv.org/abs/2505.13300))
 1. **Arxiv 2025** REPA Works Until It Does not: Early-Stopped, Holistic Alignment Supercharges Diffusion Training.
-Z. Wang, W. Zhao, Y. Zhou, Z. Li, Z. Liang, M. Shi, X. Zhao, P. Zhou, K. Zhang, Z. Wang, K. Wang, Y. You
+Z. Wang, W. Zhao, Y. Zhou, Z. Li, Z. Liang, <u>M. Shi,</u> X. Zhao, P. Zhou, K. Zhang, Z. Wang, K. Wang, Y. You
 ([paper](https://arxiv.org/abs/2505.16792))
-1. **Arxiv 2025** Make Optimization Once and for All with Fine-grained Guidance. Arxiv. M. Shi, R. Lin, X. Chen, Y. Zhou, Z. Ding, P. Li, T. Wang, K. Wang, Z. Wang, J. Zhang, T. Chen.
+1. **Arxiv 2025** Make Optimization Once and for All with Fine-grained Guidance. Arxiv. <u>M. Shi,</u> R. Lin, X. Chen, Y. Zhou, Z. Ding, P. Li, T. Wang, K. Wang, Z. Wang, J. Zhang, T. Chen.
 ([paper](https://arxiv.org/abs/2503.11462))
 1. **CVPR 2025** A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training.
 K. Wang\*, <u>M. Shi</u>\*, Y. Zhou, Z. Li, Z. Yuan, Y. Shang, X. Peng, H. Zhang, Y. You
@@ -90,7 +90,7 @@ Y. Zhou, Y. Tian, J. Lv, <u>M. Shi</u>, Y. Li, Q. Ye, S. Zhang, J. Lv
 1. **TNNLS** E-3SFC: Communication-Efficient Federated Learning With Double-Way Features Synthesizing.
 Y. Zhou*, Y. Tian*, <u>M. Shi</u>, Y. Li, Y. Sun, Q. Ye, J. Lv
 ([paper](https://arxiv.org/pdf/2502.03092))
-1. **ACL 2025 Findings** GSQ-Tuning: Group-Shared Exponents Integer in Fully Quantized Training for LLMs On-Device Fine-tuning. S. Zhou*, S. Wang*, Z. Yuan*, M. Shi, Y. Shang, D. Yang ([paper](https://arxiv.org/abs/2502.12913))
+1. **ACL 2025 Findings** GSQ-Tuning: Group-Shared Exponents Integer in Fully Quantized Training for LLMs On-Device Fine-tuning. S. Zhou*, S. Wang*, Z. Yuan*, <u>M. Shi,</u> Y. Shang, D. Yang ([paper](https://arxiv.org/abs/2502.12913))
 
 
 📅 **Early Selected**:
