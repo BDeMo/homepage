@@ -12,40 +12,44 @@ redirect_from:
 **👨‍🎓 Biography**
 ---
 
-<!-- - Internship in [HoumoAI](https://www.houmoai.com/), researching on topics related to real-world and industrial applications (e.g., efficient AI) here brings me new challendges here. -->
+- Ph.D. career begins in the VAST Lab, University of Virginia, with the greatest advisor ever of the whole mankind, [Jundong Li](https://jundongli.github.io/index.html).
+- Internship in [HoumoAI](https://www.houmoai.com/) (ended in July, 2025), researching on topics related to real-world and industrial applications (e.g., resource-preserving AI) here brings me new challendges here.
 <!-- - It's the 2nd year (written in 2024) as an intern student in [NUS HPC-Lab](https://ai.comp.nus.edu.sg/), and I enojoy the challenges and interesting topics here (e.g. efficient AI, generative model, parameter generation and etc.). -->
 - It's the 2nd year (written in 2024) as an intern student in [NUS HPC-Lab](https://ai.comp.nus.edu.sg/), and I enojoy the challenges and interesting topics here (e.g. Resource Preserving and Efficiency.).
 <!-- - From Sep. 2021 to June. 2024, I completed my master degree at Sichuan University majored in Artificial Intelligence, right where I had completed my 4-year bachelor's degree before, supervised by Prof. [Jiancheng Lv](https://center.dicalab.cn/). The majors of my career in Sichuan University are distributed optimization and learning (e.g., decentralized optimization and federated learning). -->
-- From Sep. 2021 to June. 2024, I completed my master degree at Sichuan University majored in Artificial Intelligence (Data Science), right where I had completed my 4-year bachelor's degree before, supervised by Prof. Jiancheng Lv. The majors of my career in Sichuan University are federated learning (i.e., Decentralized Data Analyses and Large System).
+- From Sep. 2021 to June. 2024, I completed my master degree at Sichuan University majored in Artificial Intelligence (Data Science), right where I had completed my 4-year bachelor's degree before, supervised by Prof. [Jiancheng Lv](https://center.dicalab.cn/). The majors of my career in Sichuan University are federated learning (i.e., Decentralized Data Analyses and Large System).
 
 
 **🎉 Latest News**
 ---
 
-- [Jan. 25] 25 Fall PhD and internship in my gap year are decided. Interesting collaborations are still welcome.
+- [Aug. 25] Ph.D. in computer engineering career has begun in UVa! Welcome N.A. proposal, paper and all other academic collaborations.
 
 <details>
 <summary>Old ones before 2025</summary>
 <br>
 
-[Dec. 24] Waiting for 2025 Fall PhD and projects in my gap year.
+- [Jan. 25] 25 Fall PhD and internship in my gap year are decided. Interesting collaborations are still welcome.
+- [Dec. 24] Waiting for 2025 Fall PhD and projects in my gap year.
 <br>
-<!-- [Aug. 24] Actively applying for a 2025 Fall PhD! If you are interested in a student familiar with theoretical analysis, generative model with extensive industry experiences as well, feel free to mail! -->
-[Aug. 24] Actively applying for a 2025 Fall PhD! If you are interested in a student familiar with theoretical analysis, feel free to mail!
+- [Aug. 24] Actively applying for a 2025 Fall PhD! If you are interested in a student familiar with theoretical analysis, generative model with extensive industry experiences as well, feel free to mail!
+- [Aug. 24] Actively applying for a 2025 Fall PhD! If you are interested in a student familiar with theoretical analysis, feel free to mail!
 
 </details>
 
 **👣 Current Career**
 ---
 
-During my research period, as an author and a reviewer of Top conferences and journals, I have appreciated the fascination and what I want to do, so I pursue a PhD career further. I am busy with my visa now.
+Settled down in University of Virginia, Charlottesville. Charlottesville is a beautiful town of great natural and academical environment. I am now exploring new research directions for my following Ph.D. career. Proposal collaborations are all welcomed.
+
+<!-- During my research period, as an author and a reviewer of Top conferences and journals, I have appreciated the fascination and what I want to do, so I pursue a PhD career further. I am busy with my visa now. -->
 
 **🔍 Research Interests**
 ---
 
 My research focus on Resource Preserving and ...
 <!-- - 🖐️ **Works in hands**. My works are mainly both theoretical analyses and corresponding methods about Efficient AI on Trends, Generative Models, AI Privacy and Safety and Federated Learning. -->
-- 🖐️ **Works in hands**. My works are mainly both theoretical analyses and corresponding methods about Resource Preserving and Efficiency on Trends.
+- 🖐️ **Works in hands**. My works are mainly both theoretical analyses and corresponding methods about Resource Preserving. Multi-Modal and Efficiency on Trends. Besides those only collaborative works before my enrollment in UVa that are kept processing, and the other future works and collaboration are in U.S. or other nonsensitive countries.
 - 🎓 **Overall background**. A knowledge and research background about math+cs, system/control/information theories, deep learning thoeries, optimization and generalization analyses.
 - 🌟 **More-interest**. There is a continuing interest in technical research as well as basic science research. Physics and other science disciplines are always beautiful.
 <!-- - **Distributed Learning and Optimization**: -->
@@ -63,31 +67,39 @@ My research focus on Resource Preserving and ...
 
 📅 **2025**:
 
+1. **Arxiv 2025** Drag-and-Drop LLMs: Zero-Shot Prompt-to-Weights.
+Z. Liang, D. Tang, Y. Zhou, X. Zhao, M. Shi, W. Zhao, Z. Li, P. Wang, K. Schürholt, D. Borth, M. M. Bronstein, Y. You, Z. Wang, K. Wang
+([paper](https://arxiv.org/abs/2506.16406))
+1. **Arxiv 2025** DD-ranking: Rethinking the evaluation of dataset distillation.
+Z. Li, X. Zhong, S. Khaki, Z. Liang, Y. Zhou, M. Shi, Z. Wang, X. Zhao, W. Zhao, Z. Qin, M. Wu, P. Zhou, H. Wang, D. J. Zhang, J. Liu, S. Wang, D. Liu, L. Zhang, G. Li, K. Wang, Z. Zhu, Z. Ma, J. T. Zhou, J. Lv, Y. Jin, P. Wang, K. Zhang, L. Lyu, Y. Huang, Z. Akata, Z. Deng, X. Wu, G. Cazenavette, Y. Shang, J. Cui, J. Gu, Q. Zheng, H. Ye, S. Wang, X. Wang, Y. Yan, A. Yao, M. Z. Shou, T. Chen, H. Bilen, B. Mirzasoleiman, M. Kellis, K. N. Plataniotis, Z. Wang, B. Zhao, Y. You, K. Wang
+([paper](https://arxiv.org/abs/2505.13300))
+1. **Arxiv 2025** REPA Works Until It Does not: Early-Stopped, Holistic Alignment Supercharges Diffusion Training.
+Z. Wang, W. Zhao, Y. Zhou, Z. Li, Z. Liang, M. Shi, X. Zhao, P. Zhou, K. Zhang, Z. Wang, K. Wang, Y. You
+([paper](https://arxiv.org/abs/2505.16792))
+1. **Arxiv 2025** Make Optimization Once and for All with Fine-grained Guidance. Arxiv. M. Shi, R. Lin, X. Chen, Y. Zhou, Z. Ding, P. Li, T. Wang, K. Wang, Z. Wang, J. Zhang, T. Chen.
+([paper](https://arxiv.org/abs/2503.11462))
 1. **CVPR 2025** A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training.
 K. Wang\*, <u>M. Shi</u>\*, Y. Zhou, Z. Li, Z. Yuan, Y. Shang, X. Peng, H. Zhang, Y. You
 ([paper](https://arxiv.org/abs/2405.17403), [code](https://github.com/NUS-HPC-AI-Lab/SpeeD))
 <!-- **CVPR 2025** -->
-
-2. **CVPR 2025** Ferret: An Efficient Online Continual Learning Framework under Varying Memory Constraints.
+1. **CVPR 2025** Ferret: An Efficient Online Continual Learning Framework under Varying Memory Constraints.
 Y. Zhou, Y. Tian, J. Lv, <u>M. Shi</u>, Y. Li, Q. Ye, S. Zhang, J. Lv
-([paper]() and [code]() to be released)
+([paper](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_Ferret_An_Efficient_Online_Continual_Learning_Framework_under_Varying_Memory_CVPR_2025_paper.html))
 <!-- **CVPR 2025** -->
-
-3. **TNNLS** E-3SFC: Communication-Efficient Federated Learning With Double-Way Features Synthesizing.
+1. **TNNLS** E-3SFC: Communication-Efficient Federated Learning With Double-Way Features Synthesizing.
 Y. Zhou*, Y. Tian*, <u>M. Shi</u>, Y. Li, Y. Sun, Q. Ye, J. Lv
-([paper](https://arxiv.org/pdf/2502.03092), [code]() to be released)
-
-4. **Arxiv** GSQ-Tuning: Group-Shared Exponents Integer in Fully Quantized Training for LLMs On-Device Fine-tuning. S. Zhou*, S. Wang*, Z. Yuan*, M. Shi, Y. Shang, D. Yang ([paper](https://arxiv.org/abs/2502.12913), [code]() to be released)
+([paper](https://arxiv.org/pdf/2502.03092))
+1. **ACL 2025 Findings** GSQ-Tuning: Group-Shared Exponents Integer in Fully Quantized Training for LLMs On-Device Fine-tuning. S. Zhou*, S. Wang*, Z. Yuan*, M. Shi, Y. Shang, D. Yang ([paper](https://arxiv.org/abs/2502.12913))
 
 
 📅 **Early Selected**:
 
 *Released Pre-Print*
-1. **Arxiv** Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training.
+1. **Arxiv 2024** Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training.
 <u>M. Shi</u>\*, Y. Zhou*, R. Yu, Z. Li, Z. Liang, X. Zhao, X. Peng, T Rajpurohit, R. Vedantam, W. Zhao, K. Wang, Y. You.
 ([paper](https://arxiv.org/abs/2412.12496), [code](https://github.com/NUS-HPC-AI-Lab/R-MeeTo), [page](https://bdemo.github.io/R-MeeTo/))
 <!-- **Arxiv** -->
-1. **Arxiv** Tackling Feature-Classifier Mismatch in Federated Learning via Prompt-Driven Feature Transformation.
+1. **Arxiv 2024** Tackling Feature-Classifier Mismatch in Federated Learning via Prompt-Driven Feature Transformation.
 X. Wu, J. Niu, X. Liu, <u>M. Shi</u>, G. Zhu, S. Tang
 ([paper](https://arxiv.org/abs/2407.16139))
 <!-- **Arxiv** -->
