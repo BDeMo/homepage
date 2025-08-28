@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+* Ph.D candidate in University of Virginia, 2025-
 * M.E. in Sichuan University University, 2024
 * B.E. in Sichuan University University, 2019
 
@@ -23,7 +24,7 @@ Work experience
   * Supervisor: Kaipeng Zhang  -->
 
 * Winter 2025: Intern Researcher
-  * Houmoai
+  * HoumoAI
   * DUties includes: Research on Resource Preserving Data Application
 
 * Winter 2023: Intern Researcher
