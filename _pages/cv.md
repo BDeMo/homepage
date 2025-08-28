@@ -13,8 +13,8 @@ Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 * Ph.D candidate in University of Virginia, 2025-
-* M.E. in Sichuan University University, 2024
-* B.E. in Sichuan University University, 2019
+* M.E. in Sichuan University University, 2021-2024
+* B.E. in Sichuan University University, 2015-2019
 
 Work experience
 ======
