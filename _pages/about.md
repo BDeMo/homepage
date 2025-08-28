@@ -29,11 +29,13 @@ redirect_from:
 <summary>Old ones before 2025</summary>
 <br>
 
-- [Jan. 25] 25 Fall PhD and internship in my gap year are decided. Interesting collaborations are still welcome.
-- [Dec. 24] Waiting for 2025 Fall PhD and projects in my gap year.
-<br>
-- [Aug. 24] Actively applying for a 2025 Fall PhD! If you are interested in a student familiar with theoretical analysis, generative model with extensive industry experiences as well, feel free to mail!
-- [Aug. 24] Actively applying for a 2025 Fall PhD! If you are interested in a student familiar with theoretical analysis, feel free to mail!
+[Jan. 25] 25 Fall PhD and internship in my gap year are decided. Interesting collaborations are still welcome.
+
+[Dec. 24] Waiting for 2025 Fall PhD and projects in my gap year.
+
+[Aug. 24] Actively applying for a 2025 Fall PhD! If you are interested in a student familiar with theoretical analysis, generative model with extensive industry experiences as well, feel free to mail!
+
+[Aug. 24] Actively applying for a 2025 Fall PhD! If you are interested in a student familiar with theoretical analysis, feel free to mail!
 
 </details>
 
