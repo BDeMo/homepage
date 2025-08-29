@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
- Here's the page (academic CV) about Mingjia (Samuel Jayden) Shi, 石明佳 in Chinese. An ENFP who shouldn't say too much, but especially wants to. If you think the one in the sidebar is too casual, I have a [formal version](images/a_pic_of_mine_2.jpg). You should focus more on the content below than here! Feel free to contact me for collaboration, discussion or just to say hi!
+ Here's the page (academic CV, [pdf](https://drive.google.com/file/d/1qrYLWORjBR_m0zuJatvB-F-KfKVPNttA/view?usp=sharing)) about Mingjia (Samuel Jayden) Shi, 石明佳 in Chinese. An ENFP who shouldn't say too much, but especially wants to. If you think the one in the sidebar is too casual, I have a [formal version](images/a_pic_of_mine_2.jpg). You should focus more on the content below than here! Feel free to contact me for collaboration, discussion or just to say hi!
 
 **👨‍🎓 Biography**
 ---
