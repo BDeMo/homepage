@@ -68,13 +68,18 @@ My research focus on Resource Preserving and ...
 
 📅 **2025**:
 
-1. **Arxiv 2025** Drag-and-Drop LLMs: Zero-Shot Prompt-to-Weights.
+1. **NeurIPS 2025** Drag-and-Drop LLMs: Zero-Shot Prompt-to-Weights.
 Z. Liang, D. Tang, Y. Zhou, X. Zhao, <u>M. Shi,</u> W. Zhao, Z. Li, P. Wang, K. Schürholt, D. Borth, M. M. Bronstein, Y. You, Z. Wang, K. Wang
 ([paper](https://arxiv.org/abs/2506.16406))
 1. **Arxiv 2025** DD-ranking: Rethinking the evaluation of dataset distillation.
 Z. Li, X. Zhong, S. Khaki, Z. Liang, Y. Zhou, <u>M. Shi,</u> Z. Wang, X. Zhao, W. Zhao, Z. Qin, M. Wu, P. Zhou, H. Wang, D. J. Zhang, J. Liu, S. Wang, D. Liu, L. Zhang, G. Li, K. Wang, Z. Zhu, Z. Ma, J. T. Zhou, J. Lv, Y. Jin, P. Wang, K. Zhang, L. Lyu, Y. Huang, Z. Akata, Z. Deng, X. Wu, G. Cazenavette, Y. Shang, J. Cui, J. Gu, Q. Zheng, H. Ye, S. Wang, X. Wang, Y. Yan, A. Yao, M. Z. Shou, T. Chen, H. Bilen, B. Mirzasoleiman, M. Kellis, K. N. Plataniotis, Z. Wang, B. Zhao, Y. You, K. Wang
 ([paper](https://arxiv.org/abs/2505.13300))
-1. **Arxiv 2025** REPA Works Until It Does not: Early-Stopped, Holistic Alignment Supercharges Diffusion Training.
+1. **NeurIPS 2025** Pruning-Robust Mamba with Asymmetric Multi-Scale Scanning Paths. J. Lv, Y. Zhou, M. Shi, Z. Liang, P.  Zhang, X. Peng, W. Zhao, Z. Zhu, J. Lv, Q. Ye, K. Wang
+([paper](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=B6f3ImkAAAAJ&citation_for_view=B6f3ImkAAAAJ:XiSMed-E-HIC))
+1. **NeurIPS 2025** Tackling Feature-Classifier Mismatch in Federated Learning via Prompt-Driven Feature Transformation.
+X. Wu, J. Niu, X. Liu, <u>M. Shi</u>, G. Zhu, S. Tang
+([paper](https://arxiv.org/abs/2407.16139))
+1. **NeurIPS 2025** REPA Works Until It Does not: Early-Stopped, Holistic Alignment Supercharges Diffusion Training.
 Z. Wang, W. Zhao, Y. Zhou, Z. Li, Z. Liang, <u>M. Shi,</u> X. Zhao, P. Zhou, K. Zhang, Z. Wang, K. Wang, Y. You
 ([paper](https://arxiv.org/abs/2505.16792))
 1. **Arxiv 2025** Make Optimization Once and for All with Fine-grained Guidance. Arxiv. <u>M. Shi,</u> R. Lin, X. Chen, Y. Zhou, Z. Ding, P. Li, T. Wang, K. Wang, Z. Wang, J. Zhang, T. Chen.
@@ -100,9 +105,9 @@ Y. Zhou*, Y. Tian*, <u>M. Shi</u>, Y. Li, Y. Sun, Q. Ye, J. Lv
 <u>M. Shi</u>\*, Y. Zhou*, R. Yu, Z. Li, Z. Liang, X. Zhao, X. Peng, T Rajpurohit, R. Vedantam, W. Zhao, K. Wang, Y. You.
 ([paper](https://arxiv.org/abs/2412.12496), [code](https://github.com/NUS-HPC-AI-Lab/R-MeeTo), [page](https://bdemo.github.io/R-MeeTo/))
 <!-- **Arxiv** -->
-1. **Arxiv 2024** Tackling Feature-Classifier Mismatch in Federated Learning via Prompt-Driven Feature Transformation.
+<!-- 1. **Arxiv 2024** Tackling Feature-Classifier Mismatch in Federated Learning via Prompt-Driven Feature Transformation.
 X. Wu, J. Niu, X. Liu, <u>M. Shi</u>, G. Zhu, S. Tang
-([paper](https://arxiv.org/abs/2407.16139))
+([paper](https://arxiv.org/abs/2407.16139)) -->
 <!-- **Arxiv** -->
 
 *Conference*
