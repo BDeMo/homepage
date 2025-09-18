@@ -76,7 +76,7 @@ Z. Li, X. Zhong, S. Khaki, Z. Liang, Y. Zhou, <u>M. Shi,</u> Z. Wang, X. Zhao, W
 1. **NeurIPS 2025** Drag-and-Drop LLMs: Zero-Shot Prompt-to-Weights.
 Z. Liang, D. Tang, Y. Zhou, X. Zhao, <u>M. Shi,</u> W. Zhao, Z. Li, P. Wang, K. Schürholt, D. Borth, M. M. Bronstein, Y. You, Z. Wang, K. Wang
 ([paper](https://arxiv.org/abs/2506.16406))
-1. **NeurIPS 2025** Pruning-Robust Mamba with Asymmetric Multi-Scale Scanning Paths. J. Lv, Y. Zhou, M. Shi, Z. Liang, P.  Zhang, X. Peng, W. Zhao, Z. Zhu, J. Lv, Q. Ye, K. Wang
+1. **NeurIPS 2025** Pruning-Robust Mamba with Asymmetric Multi-Scale Scanning Paths. J. Lv, Y. Zhou, <u>M. Shi</u>, Z. Liang, P.  Zhang, X. Peng, W. Zhao, Z. Zhu, J. Lv, Q. Ye, K. Wang
 ([paper](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=B6f3ImkAAAAJ&citation_for_view=B6f3ImkAAAAJ:XiSMed-E-HIC))
 1. **NeurIPS 2025** Tackling Feature-Classifier Mismatch in Federated Learning via Prompt-Driven Feature Transformation.
 X. Wu, J. Niu, X. Liu, <u>M. Shi</u>, G. Zhu, S. Tang
