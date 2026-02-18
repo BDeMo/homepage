@@ -68,6 +68,8 @@ My research focus on Resource Preserving and ...
 
 📅 **2025**:
 
+1. **Arxiv 2025** Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning <u> M. Shi,</u> Y. He, Y. Zhu, J. Li
+([paper]())
 1. **Arxiv 2025** Make Optimization Once and for All with Fine-grained Guidance. Arxiv. <u>M. Shi,</u> R. Lin, X. Chen, Y. Zhou, Z. Ding, P. Li, T. Wang, K. Wang, Z. Wang, J. Zhang, T. Chen.
 ([paper](https://arxiv.org/abs/2503.11462))
 1. **Arxiv 2025** DD-ranking: Rethinking the evaluation of dataset distillation.
