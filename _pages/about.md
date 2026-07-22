@@ -23,6 +23,8 @@ redirect_from:
 **🎉 Latest News**
 ---
 
+- [Jul. 26] IAPO is accepted by ICML 2026.
+- [Feb. 26] Saliency-Aware Multi-Route Thinking is available on arXiv.
 - [Aug. 25] Ph.D. in computer engineering career has begun in UVa! Welcome N.A. proposal, paper and all other academic collaborations.
 
 <details>
@@ -66,10 +68,20 @@ My research focus on Resource Preserving and ...
 **📄 Selected Publications**
 ---
 
+📅 **2026**:
+
+1. **ICML 2026** IAPO: Information-Aware Policy Optimization for Token-Efficient Reasoning.
+Y. He, Y. Zhu, <u>M. Shi</u>, W. Zheng, L. Su, X. Wang, Q. Guo, J. Li
+([paper](https://arxiv.org/abs/2602.19049), [code](https://github.com/YinhanHe123/IAPO))
+1. **arXiv 2026** Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning.
+<u>M. Shi</u>, Y. He, Y. Zhu, J. Li
+([paper](https://arxiv.org/abs/2602.16702))
+1. **ICLR 2026 submission** QuantGen: Parameter Generation for Controllable Model Quantization.
+M. Wu, X. Zhong, P. Wang, Z. Qin, J. Zhang, W. Zhao, <u>M. Shi</u>, Z. Li, H. Ye, P. Zhang, S. Wang, Y. You, K. Wang, D. Yang
+([paper](https://openreview.net/forum?id=B5sxtW8hlf))
+
 📅 **2025**:
 
-1. **Arxiv 2025** Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning <u> M. Shi,</u> Y. He, Y. Zhu, J. Li
-([paper](https://arxiv.org/pdf/2602.16702))
 1. **Arxiv 2025** Make Optimization Once and for All with Fine-grained Guidance. Arxiv. <u>M. Shi,</u> R. Lin, X. Chen, Y. Zhou, Z. Ding, P. Li, T. Wang, K. Wang, Z. Wang, J. Zhang, T. Chen.
 ([paper](https://arxiv.org/abs/2503.11462))
 1. **Arxiv 2025** DD-ranking: Rethinking the evaluation of dataset distillation.
@@ -98,6 +110,9 @@ Y. Zhou, Y. Tian, J. Lv, <u>M. Shi</u>, Y. Li, Q. Ye, S. Zhang, J. Lv
 Y. Zhou*, Y. Tian*, <u>M. Shi</u>, Y. Li, Y. Sun, Q. Ye, J. Lv
 ([paper](https://arxiv.org/pdf/2502.03092))
 1. **ACL 2025 Findings** GSQ-Tuning: Group-Shared Exponents Integer in Fully Quantized Training for LLMs On-Device Fine-tuning. S. Zhou*, S. Wang*, Z. Yuan*, <u>M. Shi,</u> Y. Shang, D. Yang ([paper](https://arxiv.org/abs/2502.12913))
+1. **IJCNN 2025** FedSH: Tackling Staleness By Scheduling High-order Approximation in Asynchronous Federated Learning.
+H. Gao, <u>M. Shi</u>, Y. Zhou, D. Xiong, Q. Ye, J. Lv
+([paper](https://doi.org/10.1109/IJCNN64981.2025.11227823))
 
 
 📅 **Early Selected**:
