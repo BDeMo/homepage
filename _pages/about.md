@@ -23,8 +23,7 @@ redirect_from:
 **🎉 Latest News**
 ---
 
-- [Jul. 26] IAPO is accepted by ICML 2026.
-- [Feb. 26] Saliency-Aware Multi-Route Thinking is available on arXiv.
+- [Jul. 26] One first-author paper was accepted by ECCV 2026, and one collaborative paper was accepted by ICML 2026.
 - [Aug. 25] Ph.D. in computer engineering career has begun in UVa! Welcome N.A. proposal, paper and all other academic collaborations.
 
 <details>
@@ -70,15 +69,15 @@ My research focus on Resource Preserving and ...
 
 📅 **2026**:
 
+1. **ECCV 2026** Dive into the Implicit Biases of Low-rank Vision-language Alignment.
+<u>M. Shi</u>, S. Wang, X. Wang, S. Zhou, K. Wang, T. Fu, C. Zhao, A. Su, P. Jiang, M. Wu
+([paper](https://arxiv.org/abs/2607.08194))
 1. **ICML 2026** IAPO: Information-Aware Policy Optimization for Token-Efficient Reasoning.
 Y. He, Y. Zhu, <u>M. Shi</u>, W. Zheng, L. Su, X. Wang, Q. Guo, J. Li
 ([paper](https://arxiv.org/abs/2602.19049), [code](https://github.com/YinhanHe123/IAPO))
 1. **arXiv 2026** Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning.
 <u>M. Shi</u>, Y. He, Y. Zhu, J. Li
 ([paper](https://arxiv.org/abs/2602.16702))
-1. **ICLR 2026 submission** QuantGen: Parameter Generation for Controllable Model Quantization.
-M. Wu, X. Zhong, P. Wang, Z. Qin, J. Zhang, W. Zhao, <u>M. Shi</u>, Z. Li, H. Ye, P. Zhang, S. Wang, Y. You, K. Wang, D. Yang
-([paper](https://openreview.net/forum?id=B5sxtW8hlf))
 
 📅 **2025**:
 
