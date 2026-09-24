@@ -23,6 +23,7 @@ redirect_from:
 **🎉 Latest News**
 ---
 
+- [Sep. 26] Our first-author paper, **SAP**, was accepted by **NeurIPS 2026**, and **MemSuit** was accepted by **EMNLP 2026**.
 - [Jul. 26] One first-author paper was accepted by ECCV 2026, and one collaborative paper was accepted by ICML 2026.
 - [Aug. 25] Ph.D. in computer engineering career has begun in UVa! Welcome N.A. proposal, paper and all other academic collaborations.
 
@@ -69,15 +70,18 @@ My research focus on Resource Preserving and ...
 
 📅 **2026**:
 
+1. **NeurIPS 2026** Saliency-Aware Multi-Route Thinking: Grounding and Reasoning on Vision-Language Agents.
+<u>M. Shi</u>, Y. He, Y. Zhu, J. Li
+([preprint](https://arxiv.org/abs/2602.16702), [details]({{ '/publication/2026-SAP' | relative_url }}))
+1. **EMNLP 2026** Grounding Memory Summarization in Utility Intent.
+Z. Lei, <u>M. Shi</u>, X. Fu, H. He, Q. R. Wang, J. Li
+([paper]({{ '/files/2026-MemSuit.pdf' | relative_url }}), [details]({{ '/publication/2026-MemSuit' | relative_url }}))
 1. **ECCV 2026** Dive into the Implicit Biases of Low-rank Vision-language Alignment.
 <u>M. Shi</u>, S. Wang, X. Wang, S. Zhou, K. Wang, T. Fu, C. Zhao, A. Su, P. Jiang, M. Wu
 ([paper](https://arxiv.org/abs/2607.08194))
 1. **ICML 2026** IAPO: Information-Aware Policy Optimization for Token-Efficient Reasoning.
 Y. He, Y. Zhu, <u>M. Shi</u>, W. Zheng, L. Su, X. Wang, Q. Guo, J. Li
 ([paper](https://arxiv.org/abs/2602.19049), [code](https://github.com/YinhanHe123/IAPO))
-1. **arXiv 2026** Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning.
-<u>M. Shi</u>, Y. He, Y. Zhu, J. Li
-([paper](https://arxiv.org/abs/2602.16702))
 
 📅 **2025**:
 
