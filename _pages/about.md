@@ -13,6 +13,7 @@ redirect_from:
 ---
 
 - Ph.D. career begins in the VAST Lab, University of Virginia, with the greatest advisor ever of the whole mankind, [Jundong Li](https://jundongli.github.io/index.html).
+- AI Research & Development Intern at **Nokia**, May–August 2026 (4 months), Sunnyvale, California, United States (on-site).
 - Internship in [HoumoAI](https://www.houmoai.com/) (ended in July, 2025), researching on topics related to real-world and industrial applications (e.g., resource-preserving AI) here brings me new challendges here.
 <!-- - It's the 2nd year (written in 2024) as an intern student in [NUS HPC-Lab](https://ai.comp.nus.edu.sg/), and I enojoy the challenges and interesting topics here (e.g. efficient AI, generative model, parameter generation and etc.). -->
 - It's the 2nd year (written in 2024) as an intern student in [NUS HPC-Lab](https://ai.comp.nus.edu.sg/), and I enojoy the challenges and interesting topics here (e.g. Resource Preserving and Efficiency.).
