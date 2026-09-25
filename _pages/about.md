@@ -24,6 +24,7 @@ redirect_from:
 **🎉 Latest News**
 ---
 
+- [Sep. 26] **DD-Ranking** was accepted by **NeurIPS 2026 as an Oral presentation**.
 - [Sep. 26] Our first-author paper, **SAP**, was accepted by **NeurIPS 2026**, and **MemSuit** was accepted by **EMNLP 2026**.
 - [Jul. 26] One first-author paper was accepted by ECCV 2026, and one collaborative paper was accepted by ICML 2026.
 - [Aug. 25] Ph.D. in computer engineering career has begun in UVa! Welcome N.A. proposal, paper and all other academic collaborations.
@@ -71,6 +72,9 @@ My research focus on Resource Preserving and ...
 
 📅 **2026**:
 
+1. **NeurIPS 2026 (Oral)** DD-Ranking: Rethinking the Evaluation of Dataset Distillation.
+Z. Li, X. Zhong, S. Khaki, Z. Liang, Y. Zhou, <u>M. Shi,</u> Z. Wang, X. Zhao, W. Zhao, Z. Qin, M. Wu, P. Zhou, H. Wang, D. J. Zhang, J. Liu, S. Wang, D. Liu, L. Zhang, G. Li, K. Wang, Z. Zhu, Z. Ma, J. T. Zhou, J. Lv, Y. Jin, P. Wang, K. Zhang, L. Lyu, Y. Huang, Z. Akata, Z. Deng, X. Wu, G. Cazenavette, Y. Shang, J. Cui, J. Gu, Q. Zheng, H. Ye, S. Wang, X. Wang, Y. Yan, A. Yao, M. Z. Shou, T. Chen, H. Bilen, B. Mirzasoleiman, M. Kellis, K. N. Plataniotis, Z. Wang, B. Zhao, Y. You, K. Wang
+([paper](https://arxiv.org/abs/2505.13300))
 1. **NeurIPS 2026** Saliency-Aware Multi-Route Thinking: Grounding and Reasoning on Vision-Language Agents.
 <u>M. Shi</u>, Y. He, Y. Zhu, J. Li
 ([preprint](https://arxiv.org/abs/2602.16702), [details]({{ '/publication/2026-SAP' | relative_url }}))
@@ -88,9 +92,6 @@ Y. He, Y. Zhu, <u>M. Shi</u>, W. Zheng, L. Su, X. Wang, Q. Guo, J. Li
 
 1. **Arxiv 2025** Make Optimization Once and for All with Fine-grained Guidance. Arxiv. <u>M. Shi,</u> R. Lin, X. Chen, Y. Zhou, Z. Ding, P. Li, T. Wang, K. Wang, Z. Wang, J. Zhang, T. Chen.
 ([paper](https://arxiv.org/abs/2503.11462))
-1. **Arxiv 2025** DD-ranking: Rethinking the evaluation of dataset distillation.
-Z. Li, X. Zhong, S. Khaki, Z. Liang, Y. Zhou, <u>M. Shi,</u> Z. Wang, X. Zhao, W. Zhao, Z. Qin, M. Wu, P. Zhou, H. Wang, D. J. Zhang, J. Liu, S. Wang, D. Liu, L. Zhang, G. Li, K. Wang, Z. Zhu, Z. Ma, J. T. Zhou, J. Lv, Y. Jin, P. Wang, K. Zhang, L. Lyu, Y. Huang, Z. Akata, Z. Deng, X. Wu, G. Cazenavette, Y. Shang, J. Cui, J. Gu, Q. Zheng, H. Ye, S. Wang, X. Wang, Y. Yan, A. Yao, M. Z. Shou, T. Chen, H. Bilen, B. Mirzasoleiman, M. Kellis, K. N. Plataniotis, Z. Wang, B. Zhao, Y. You, K. Wang
-([paper](https://arxiv.org/abs/2505.13300))
 1. **NeurIPS 2025** Drag-and-Drop LLMs: Zero-Shot Prompt-to-Weights.
 Z. Liang, D. Tang, Y. Zhou, X. Zhao, <u>M. Shi,</u> W. Zhao, Z. Li, P. Wang, K. Schürholt, D. Borth, M. M. Bronstein, Y. You, Z. Wang, K. Wang
 ([paper](https://arxiv.org/abs/2506.16406))
