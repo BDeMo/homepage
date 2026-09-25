@@ -24,7 +24,7 @@ redirect_from:
 **🎉 Latest News**
 ---
 
-- [Sep. 26] **DD-Ranking** was accepted by **NeurIPS 2026 (Oral)**, our first-author paper **SAP** was accepted by **NeurIPS 2026**, and **MemSuit** was accepted by **EMNLP 2026**.
+- [Sep. 26] My first-author paper **SAP** was accepted by **NeurIPS 2026**, and two co-authored papers, **DD-Ranking** and **MemSuit**, were accepted by **NeurIPS 2026 (Oral)** and **EMNLP 2026**, respectively.
 - [Jul. 26] One first-author paper was accepted by ECCV 2026, and one collaborative paper was accepted by ICML 2026.
 - [Aug. 25] Ph.D. in computer engineering career has begun in UVa! Welcome N.A. proposal, paper and all other academic collaborations.
 
