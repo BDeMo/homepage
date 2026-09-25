@@ -66,12 +66,8 @@ My research focus on Resource Preserving and ...
 <!-- Another big hitter, LLM, and its practical generation tasks are also of my interests. A lot of industrial issues that need to be solved, effiicency, human value alignment and privacy. -->
 
 
-**📄 Selected Publications**
+**📄 Publications**
 ---
-
-### First-Author / Co-First-Author Papers
-
-📅 **2026**:
 
 1. **NeurIPS 2026** Saliency-Aware Multi-Route Thinking: Grounding and Reasoning on Vision-Language Agents.
 <u>M. Shi</u>, Y. He, Y. Zhu, J. Li
@@ -79,17 +75,11 @@ My research focus on Resource Preserving and ...
 1. **ECCV 2026** Dive into the Implicit Biases of Low-rank Vision-language Alignment.
 <u>M. Shi</u>, S. Wang, X. Wang, S. Zhou, K. Wang, T. Fu, C. Zhao, A. Su, P. Jiang, M. Wu
 ([paper](https://arxiv.org/abs/2607.08194))
-
-📅 **2025**:
-
 1. **Arxiv 2025** Make Optimization Once and for All with Fine-grained Guidance. Arxiv. <u>M. Shi,</u> R. Lin, X. Chen, Y. Zhou, Z. Ding, P. Li, T. Wang, K. Wang, Z. Wang, J. Zhang, T. Chen.
 ([paper](https://arxiv.org/abs/2503.11462))
 1. **CVPR 2025** A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training.
 K. Wang\*, <u>M. Shi</u>\*, Y. Zhou, Z. Li, Z. Yuan, Y. Shang, X. Peng, H. Zhang, Y. You
 ([paper](https://arxiv.org/abs/2405.17403), [code](https://github.com/NUS-HPC-AI-Lab/SpeeD))
-
-📅 **Earlier**:
-
 1. **Arxiv 2024** Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training.
 <u>M. Shi</u>\*, Y. Zhou*, R. Yu, Z. Li, Z. Liang, X. Zhao, X. Peng, T Rajpurohit, R. Vedantam, W. Zhao, K. Wang, Y. You.
 ([paper](https://arxiv.org/abs/2412.12496), [code](https://github.com/NUS-HPC-AI-Lab/R-MeeTo), [page](https://bdemo.github.io/R-MeeTo/))
@@ -97,11 +87,6 @@ K. Wang\*, <u>M. Shi</u>\*, Y. Zhou, Z. Li, Z. Yuan, Y. Shang, X. Peng, H. Zhang
 <u>M. Shi</u>, Y. Zhou, K. Wang, H. Zhang, S. Huang, Q. Ye, J. Lv ([paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5a3674849d6d6d23ac088b9a2552f323-Abstract-Conference.html), [code](https://github.com/BDeMo/pFedBreD_public))
 1. **ICONIP 2023** Unconstrained Feature Model and Its General Geometric Patterns in Federated Learning: Local Subspace Minority Collapse.
 <u>M. Shi</u>, Y. Zhou, Q. Ye, J. Lv ([paper](https://link.springer.com/chapter/10.1007/978-981-99-8132-8_34))
-
-### Co-Authored Papers
-
-📅 **2026**:
-
 1. **NeurIPS 2026 (Oral)** DD-Ranking: Rethinking the Evaluation of Dataset Distillation.
 Z. Li, X. Zhong, S. Khaki, Z. Liang, Y. Zhou, <u>M. Shi,</u> Z. Wang, X. Zhao, W. Zhao, Z. Qin, M. Wu, P. Zhou, H. Wang, D. J. Zhang, J. Liu, S. Wang, D. Liu, L. Zhang, G. Li, K. Wang, Z. Zhu, Z. Ma, J. T. Zhou, J. Lv, Y. Jin, P. Wang, K. Zhang, L. Lyu, Y. Huang, Z. Akata, Z. Deng, X. Wu, G. Cazenavette, Y. Shang, J. Cui, J. Gu, Q. Zheng, H. Ye, S. Wang, X. Wang, Y. Yan, A. Yao, M. Z. Shou, T. Chen, H. Bilen, B. Mirzasoleiman, M. Kellis, K. N. Plataniotis, Z. Wang, B. Zhao, Y. You, K. Wang
 ([paper](https://arxiv.org/abs/2505.13300))
@@ -111,9 +96,6 @@ Z. Lei, <u>M. Shi</u>, X. Fu, H. He, Q. R. Wang, J. Li
 1. **ICML 2026** IAPO: Information-Aware Policy Optimization for Token-Efficient Reasoning.
 Y. He, Y. Zhu, <u>M. Shi</u>, W. Zheng, L. Su, X. Wang, Q. Guo, J. Li
 ([paper](https://arxiv.org/abs/2602.19049), [code](https://github.com/YinhanHe123/IAPO))
-
-📅 **2025**:
-
 1. **NeurIPS 2025** Drag-and-Drop LLMs: Zero-Shot Prompt-to-Weights.
 Z. Liang, D. Tang, Y. Zhou, X. Zhao, <u>M. Shi,</u> W. Zhao, Z. Li, P. Wang, K. Schürholt, D. Borth, M. M. Bronstein, Y. You, Z. Wang, K. Wang
 ([paper](https://arxiv.org/abs/2506.16406))
@@ -135,9 +117,6 @@ Y. Zhou*, Y. Tian*, <u>M. Shi</u>, Y. Li, Y. Sun, Q. Ye, J. Lv
 1. **IJCNN 2025** FedSH: Tackling Staleness By Scheduling High-order Approximation in Asynchronous Federated Learning.
 H. Gao, <u>M. Shi</u>, Y. Zhou, D. Xiong, Q. Ye, J. Lv
 ([paper](https://doi.org/10.1109/IJCNN64981.2025.11227823))
-
-📅 **Earlier**:
-
 1. **ICASSP 2024** Federated CINN Clustering for Accurate Clustered Federated Learning.
 Y. Zhou, <u>M. Shi</u>, Y. Tian, Y. Li, Q. Ye, J. Lv ([paper](https://ieeexplore.ieee.org/abstract/document/10447282/))
 1. **ICCV 2023** Communication-efficient Federated Learning with Single-Step Synthetic Features Compressor for Faster Convergence.

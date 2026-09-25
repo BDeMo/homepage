@@ -15,8 +15,6 @@ author_profile: true
 {% assign publication_groups = '0,1,2' | split: ',' %}
 {% for group in publication_groups %}
   {% assign priority = group | plus: 0 %}
-  {% if priority == 0 %}<h2>First-Author / Co-First-Author Papers</h2>{% endif %}
-  {% if priority == 1 %}<h2>Co-Authored Papers</h2>{% endif %}
   {% for post in dated_publications %}
     {% if post.author_priority == priority %}
       {% include archive-single.html %}

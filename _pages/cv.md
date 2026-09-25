@@ -61,20 +61,17 @@ Publications
 ======
 {% assign dated_publications = site.publications | sort: 'date' | reverse %}
 {% assign publication_groups = '0,1,2' | split: ',' %}
+<ul>
 {% for group in publication_groups %}
   {% assign priority = group | plus: 0 %}
-  {% if priority == 0 %}<h2>First-Author / Co-First-Author Papers</h2>{% endif %}
-  {% if priority == 1 %}<h2>Co-Authored Papers</h2>{% endif %}
-  <ul>
   {% for post in dated_publications %}
     {% if post.author_priority == priority %}
       {% include archive-single-cv.html %}
     {% endif %}
   {% endfor %}
-  </ul>
 {% endfor %}
+</ul>
 
-  
 <!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
