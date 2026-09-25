@@ -1,6 +1,7 @@
 ---
 title: "DD-Ranking: Rethinking the Evaluation of Dataset Distillation"
 collection: publications
+author_priority: 1
 category: conferences
 permalink: /publication/2025-DD_Ranking
 excerpt: ''

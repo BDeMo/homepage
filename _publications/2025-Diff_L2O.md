@@ -1,8 +1,9 @@
 ---
 title: "Make Optimization Once and for All with Fine-grained Guidance"
 collection: publications
+author_priority: 0
 category: preprints
-permalink: /publication/2025-REPA_ES
+permalink: /publication/2025-Diff_L2O
 excerpt: ''
 date: 2025-03-14
 venue: 'Arxiv'

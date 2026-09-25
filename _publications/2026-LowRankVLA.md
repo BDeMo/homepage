@@ -1,6 +1,7 @@
 ---
 title: "Dive into the Implicit Biases of Low-rank Vision-language Alignment"
 collection: publications
+author_priority: 0
 category: conferences
 permalink: /publication/2026-LowRankVLA
 excerpt: ''

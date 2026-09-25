@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
- Here's the page (academic CV, [pdf](https://drive.google.com/file/d/1IaVqfYQfiEhjcDV5CmKkmU8W7_PdPyWI/view?usp=sharing)) about Mingjia (Samuel Jayden) Shi, 石明佳 in Chinese. An ENFP who shouldn't say too much, but especially wants to. If you think the one in the sidebar is too casual, I have a [formal version](images/a_pic_of_mine_2.jpg). You should focus more on the content below than here! Feel free to contact me for collaboration, discussion or just to say hi!
+ Here's the page (academic CV, [pdf]({{ '/files/Mingjia_Shi_CV.pdf' | relative_url }})) about Mingjia (Samuel Jayden) Shi, 石明佳 in Chinese. An ENFP who shouldn't say too much, but especially wants to. If you think the one in the sidebar is too casual, I have a [formal version](images/a_pic_of_mine_2.jpg). You should focus more on the content below than here! Feel free to contact me for collaboration, discussion or just to say hi!
 
 **👨‍🎓 Biography**
 ---
@@ -69,28 +69,51 @@ My research focus on Resource Preserving and ...
 **📄 Selected Publications**
 ---
 
+### First-Author / Co-First-Author Papers
+
+📅 **2026**:
+
+1. **NeurIPS 2026** Saliency-Aware Multi-Route Thinking: Grounding and Reasoning on Vision-Language Agents.
+<u>M. Shi</u>, Y. He, Y. Zhu, J. Li
+([preprint](https://arxiv.org/abs/2602.16702), [details]({{ '/publication/2026-SAP' | relative_url }}))
+1. **ECCV 2026** Dive into the Implicit Biases of Low-rank Vision-language Alignment.
+<u>M. Shi</u>, S. Wang, X. Wang, S. Zhou, K. Wang, T. Fu, C. Zhao, A. Su, P. Jiang, M. Wu
+([paper](https://arxiv.org/abs/2607.08194))
+
+📅 **2025**:
+
+1. **Arxiv 2025** Make Optimization Once and for All with Fine-grained Guidance. Arxiv. <u>M. Shi,</u> R. Lin, X. Chen, Y. Zhou, Z. Ding, P. Li, T. Wang, K. Wang, Z. Wang, J. Zhang, T. Chen.
+([paper](https://arxiv.org/abs/2503.11462))
+1. **CVPR 2025** A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training.
+K. Wang\*, <u>M. Shi</u>\*, Y. Zhou, Z. Li, Z. Yuan, Y. Shang, X. Peng, H. Zhang, Y. You
+([paper](https://arxiv.org/abs/2405.17403), [code](https://github.com/NUS-HPC-AI-Lab/SpeeD))
+
+📅 **Earlier**:
+
+1. **Arxiv 2024** Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training.
+<u>M. Shi</u>\*, Y. Zhou*, R. Yu, Z. Li, Z. Liang, X. Zhao, X. Peng, T Rajpurohit, R. Vedantam, W. Zhao, K. Wang, Y. You.
+([paper](https://arxiv.org/abs/2412.12496), [code](https://github.com/NUS-HPC-AI-Lab/R-MeeTo), [page](https://bdemo.github.io/R-MeeTo/))
+1. **NeurIPS 2023** PRIOR: Personalized Prior for Reactivating the Information Overlooked in Federated Learning.
+<u>M. Shi</u>, Y. Zhou, K. Wang, H. Zhang, S. Huang, Q. Ye, J. Lv ([paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5a3674849d6d6d23ac088b9a2552f323-Abstract-Conference.html), [code](https://github.com/BDeMo/pFedBreD_public))
+1. **ICONIP 2023** Unconstrained Feature Model and Its General Geometric Patterns in Federated Learning: Local Subspace Minority Collapse.
+<u>M. Shi</u>, Y. Zhou, Q. Ye, J. Lv ([paper](https://link.springer.com/chapter/10.1007/978-981-99-8132-8_34))
+
+### Co-Authored Papers
+
 📅 **2026**:
 
 1. **NeurIPS 2026 (Oral)** DD-Ranking: Rethinking the Evaluation of Dataset Distillation.
 Z. Li, X. Zhong, S. Khaki, Z. Liang, Y. Zhou, <u>M. Shi,</u> Z. Wang, X. Zhao, W. Zhao, Z. Qin, M. Wu, P. Zhou, H. Wang, D. J. Zhang, J. Liu, S. Wang, D. Liu, L. Zhang, G. Li, K. Wang, Z. Zhu, Z. Ma, J. T. Zhou, J. Lv, Y. Jin, P. Wang, K. Zhang, L. Lyu, Y. Huang, Z. Akata, Z. Deng, X. Wu, G. Cazenavette, Y. Shang, J. Cui, J. Gu, Q. Zheng, H. Ye, S. Wang, X. Wang, Y. Yan, A. Yao, M. Z. Shou, T. Chen, H. Bilen, B. Mirzasoleiman, M. Kellis, K. N. Plataniotis, Z. Wang, B. Zhao, Y. You, K. Wang
 ([paper](https://arxiv.org/abs/2505.13300))
-1. **NeurIPS 2026** Saliency-Aware Multi-Route Thinking: Grounding and Reasoning on Vision-Language Agents.
-<u>M. Shi</u>, Y. He, Y. Zhu, J. Li
-([preprint](https://arxiv.org/abs/2602.16702), [details]({{ '/publication/2026-SAP' | relative_url }}))
 1. **EMNLP 2026** Grounding Memory Summarization in Utility Intent.
 Z. Lei, <u>M. Shi</u>, X. Fu, H. He, Q. R. Wang, J. Li
 ([paper]({{ '/files/2026-MemSuit.pdf' | relative_url }}), [details]({{ '/publication/2026-MemSuit' | relative_url }}))
-1. **ECCV 2026** Dive into the Implicit Biases of Low-rank Vision-language Alignment.
-<u>M. Shi</u>, S. Wang, X. Wang, S. Zhou, K. Wang, T. Fu, C. Zhao, A. Su, P. Jiang, M. Wu
-([paper](https://arxiv.org/abs/2607.08194))
 1. **ICML 2026** IAPO: Information-Aware Policy Optimization for Token-Efficient Reasoning.
 Y. He, Y. Zhu, <u>M. Shi</u>, W. Zheng, L. Su, X. Wang, Q. Guo, J. Li
 ([paper](https://arxiv.org/abs/2602.19049), [code](https://github.com/YinhanHe123/IAPO))
 
 📅 **2025**:
 
-1. **Arxiv 2025** Make Optimization Once and for All with Fine-grained Guidance. Arxiv. <u>M. Shi,</u> R. Lin, X. Chen, Y. Zhou, Z. Ding, P. Li, T. Wang, K. Wang, Z. Wang, J. Zhang, T. Chen.
-([paper](https://arxiv.org/abs/2503.11462))
 1. **NeurIPS 2025** Drag-and-Drop LLMs: Zero-Shot Prompt-to-Weights.
 Z. Liang, D. Tang, Y. Zhou, X. Zhao, <u>M. Shi,</u> W. Zhao, Z. Li, P. Wang, K. Schürholt, D. Borth, M. M. Bronstein, Y. You, Z. Wang, K. Wang
 ([paper](https://arxiv.org/abs/2506.16406))
@@ -102,14 +125,9 @@ X. Wu, J. Niu, X. Liu, <u>M. Shi</u>, G. Zhu, S. Tang
 1. **NeurIPS 2025** REPA Works Until It Does not: Early-Stopped, Holistic Alignment Supercharges Diffusion Training.
 Z. Wang, W. Zhao, Y. Zhou, Z. Li, Z. Liang, <u>M. Shi,</u> X. Zhao, P. Zhou, K. Zhang, Z. Wang, K. Wang, Y. You
 ([paper](https://arxiv.org/abs/2505.16792))
-1. **CVPR 2025** A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training.
-K. Wang\*, <u>M. Shi</u>\*, Y. Zhou, Z. Li, Z. Yuan, Y. Shang, X. Peng, H. Zhang, Y. You
-([paper](https://arxiv.org/abs/2405.17403), [code](https://github.com/NUS-HPC-AI-Lab/SpeeD))
-<!-- **CVPR 2025** -->
 1. **CVPR 2025** Ferret: An Efficient Online Continual Learning Framework under Varying Memory Constraints.
 Y. Zhou, Y. Tian, J. Lv, <u>M. Shi</u>, Y. Li, Q. Ye, S. Zhang, J. Lv
 ([paper](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_Ferret_An_Efficient_Online_Continual_Learning_Framework_under_Varying_Memory_CVPR_2025_paper.html))
-<!-- **CVPR 2025** -->
 1. **TNNLS** E-3SFC: Communication-Efficient Federated Learning With Double-Way Features Synthesizing.
 Y. Zhou*, Y. Tian*, <u>M. Shi</u>, Y. Li, Y. Sun, Q. Ye, J. Lv
 ([paper](https://arxiv.org/pdf/2502.03092))
@@ -118,43 +136,18 @@ Y. Zhou*, Y. Tian*, <u>M. Shi</u>, Y. Li, Y. Sun, Q. Ye, J. Lv
 H. Gao, <u>M. Shi</u>, Y. Zhou, D. Xiong, Q. Ye, J. Lv
 ([paper](https://doi.org/10.1109/IJCNN64981.2025.11227823))
 
+📅 **Earlier**:
 
-📅 **Early Selected**:
-
-*Released Pre-Print*
-1. **Arxiv 2024** Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training.
-<u>M. Shi</u>\*, Y. Zhou*, R. Yu, Z. Li, Z. Liang, X. Zhao, X. Peng, T Rajpurohit, R. Vedantam, W. Zhao, K. Wang, Y. You.
-([paper](https://arxiv.org/abs/2412.12496), [code](https://github.com/NUS-HPC-AI-Lab/R-MeeTo), [page](https://bdemo.github.io/R-MeeTo/))
-<!-- **Arxiv** -->
-<!-- 1. **Arxiv 2024** Tackling Feature-Classifier Mismatch in Federated Learning via Prompt-Driven Feature Transformation.
-X. Wu, J. Niu, X. Liu, <u>M. Shi</u>, G. Zhu, S. Tang
-([paper](https://arxiv.org/abs/2407.16139)) -->
-<!-- **Arxiv** -->
-
-*Conference*
 1. **ICASSP 2024** Federated CINN Clustering for Accurate Clustered Federated Learning.
 Y. Zhou, <u>M. Shi</u>, Y. Tian, Y. Li, Q. Ye, J. Lv ([paper](https://ieeexplore.ieee.org/abstract/document/10447282/))
-<!-- **ICASSP 2024** -->
-1. **NeurIPS 2023** PRIOR: Personalized Prior for Reactivating the Information Overlooked in Federated Learning.
-<u>M. Shi</u>, Y. Zhou, K. Wang, H. Zhang, S. Huang, Q. Ye, J. Lv ([paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5a3674849d6d6d23ac088b9a2552f323-Abstract-Conference.html), [code](https://github.com/BDeMo/pFedBreD_public))
-<!-- **NeurIPS 2023** -->
-1. **ICONIP 2023** Unconstrained Feature Model and Its General Geometric Patterns in Federated Learning: Local Subspace Minority Collapse.
-<u>M. Shi</u>, Y. Zhou, Q. Ye, J. Lv ([paper](https://link.springer.com/chapter/10.1007/978-981-99-8132-8_34))
-<!-- **ICONIP 2023** -->
 1. **ICCV 2023** Communication-efficient Federated Learning with Single-Step Synthetic Features Compressor for Faster Convergence.
 Y. Zhou, <u>M. Shi</u>, Y. Li, Y. Sun, Q. Ye, J. Lv ([paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Communication-efficient_Federated_Learning_with_Single-Step_Synthetic_Features_Compressor_for_Faster_ICCV_2023_paper.html))
-<!-- **ICCV 2023** -->
-
-*Journal*
 1. **InfoSci** DeFTA: A Plug-and-Play Peer-to-Peer Decentralized Federated Learning Framework.
 Y. Zhou, <u>M. Shi</u>, Y. Tian, Q. Ye, J. Lv ([paper](https://www.sciencedirect.com/science/article/pii/S002002552400495X))
-<!-- **InfoSci** -->
 1. **Trans.ETCI** DLB: a dynamic load balance strategy for distributed training of deep neural networks.
 Q. Ye, Y. Zhou, <u>M. Shi</u>, Y. Sun, J. Lv ([paper](https://ieeexplore.ieee.org/abstract/document/9960865/))
-<!-- **Trans.ETCI** -->
 1. **JoSc** FLSGD: free local SGD with parallel synchronization.
 Q. Ye, Y. Zhou, <u>M. Shi</u>, J. Lv ([paper](https://link.springer.com/article/10.1007/s11227-021-04267-5))
-<!-- **JoSc** -->
 
 [Please see the full list in Google Scholar](https://scholar.google.com/citations?user=B6f3ImkAAAAJ)
 

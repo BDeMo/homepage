@@ -1,8 +1,9 @@
 ---
 title: "FLSGD: free local SGD with parallel synchronization"
 collection: publications
+author_priority: 2
 category: manuscripts
-permalink: /publication/2023-FCCA
+permalink: /publication/2022-FLSGD
 excerpt: ''
 date: 2022-07-01
 venue: 'JoSc'

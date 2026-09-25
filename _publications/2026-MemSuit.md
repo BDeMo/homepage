@@ -1,6 +1,7 @@
 ---
 title: "Grounding Memory Summarization in Utility Intent"
 collection: publications
+author_priority: 2
 category: conferences
 permalink: /publication/2026-MemSuit
 excerpt: ''

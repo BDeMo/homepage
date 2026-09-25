@@ -1,6 +1,7 @@
 ---
 title: "REPA Works Until It Doesn't: Early-Stopped, Holistic Alignment Supercharges Diffusion Training"
 collection: publications
+author_priority: 2
 category: conferences
 permalink: /publication/2025-REPA_ES
 excerpt: ''

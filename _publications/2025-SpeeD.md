@@ -1,6 +1,7 @@
 ---
 title: "A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training"
 collection: publications
+author_priority: 0
 category: conferences
 permalink: /publication/2025-SpeeD
 excerpt: ''

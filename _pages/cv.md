@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my academic CV (PDF)]({{ '/files/Mingjia_Shi_CV.pdf' | relative_url }})
+
 Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
@@ -22,6 +24,10 @@ Work experience
   * Shanghai AI Lab
   * Duties includes: Multimodal LLM and Token efficiency
   * Supervisor: Kaipeng Zhang  -->
+
+* May-August 2026: AI Research & Development Intern
+  * Nokia, Sunnyvale, California, United States (on-site)
+  * Research focus: long-context compression and robustness.
 
 * Winter 2025: Intern Researcher
   * HoumoAI
@@ -53,9 +59,21 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% assign dated_publications = site.publications | sort: 'date' | reverse %}
+{% assign publication_groups = '0,1,2' | split: ',' %}
+{% for group in publication_groups %}
+  {% assign priority = group | plus: 0 %}
+  {% if priority == 0 %}<h2>First-Author / Co-First-Author Papers</h2>{% endif %}
+  {% if priority == 1 %}<h2>Co-Authored Papers</h2>{% endif %}
+  <ul>
+  {% for post in dated_publications %}
+    {% if post.author_priority == priority %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
+  </ul>
+{% endfor %}
+
   
 <!-- Talks
 ======

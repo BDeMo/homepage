@@ -1,6 +1,7 @@
 ---
 title: "Pruning-Robust Mamba with Asymmetric Multi-Scale Scanning Paths"
 collection: publications
+author_priority: 2
 category: conferences
 permalink: /publication/2025-PruningMamba
 excerpt: ''

@@ -1,6 +1,7 @@
 ---
 title: "Ferret: An Efficient Online Continual Learning Framework under Varying Memory Constraints"
 collection: publications
+author_priority: 2
 category: conferences
 permalink: /publication/2025-Ferret
 excerpt: ''

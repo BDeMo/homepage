@@ -1,6 +1,7 @@
 ---
 title: "PRIOR: Personalized Prior for Reactivating the Information Overlooked in Federated Learning"
 collection: publications
+author_priority: 0
 category: conferences
 permalink: /publication/2023-PRIOR
 excerpt: ''

@@ -1,8 +1,9 @@
 ---
 title: "DeFTA: A Plug-and-Play Peer-to-Peer Decentralized Federated Learning Framework"
 collection: publications
+author_priority: 2
 category: manuscripts
-permalink: /publication/2023-FCCA
+permalink: /publication/2024-DeFTA
 excerpt: ''
 date: 2024-04-01
 venue: 'InfoSci'

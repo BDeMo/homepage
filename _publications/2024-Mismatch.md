@@ -1,6 +1,7 @@
 ---
 title: "Tackling Feature-Classifier Mismatch in Federated Learning via Prompt-Driven Feature Transformation"
 collection: publications
+author_priority: 2
 category: conferences
 permalink: /publication/2024-FLMismatch
 excerpt: ''

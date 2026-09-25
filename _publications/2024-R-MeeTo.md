@@ -1,6 +1,7 @@
 ---
 title: "Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training"
 collection: publications
+author_priority: 0
 category: preprints
 permalink: /publication/2024-R-MeeTo
 excerpt: ''
