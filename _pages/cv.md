@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my academic CV (PDF)]({{ '/files/Mingjia_Shi_CV.pdf' | relative_url }})
+[Download my academic CV (PDF)](https://github.com/BDeMo/Academic-Resume/raw/refs/heads/main/Mingjia_Shi_CV.pdf)
 
 Education
 ======
