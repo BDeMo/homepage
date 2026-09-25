@@ -12,12 +12,25 @@ author_profile: true
 {% include base_path %}
 
 {% assign dated_publications = site.publications | sort: 'date' | reverse %}
-{% assign publication_groups = '0,1,2' | split: ',' %}
-{% for group in publication_groups %}
-  {% assign priority = group | plus: 0 %}
-  {% for post in dated_publications %}
-    {% if post.author_priority == priority %}
+{% assign ordered_publications = dated_publications | sort: 'author_priority' %}
+
+<!-- Preserve publication categories, with first authorship prioritized within each category. -->
+{% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% for post in ordered_publications %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
       {% include archive-single.html %}
-    {% endif %}
+    {% endfor %}
   {% endfor %}
-{% endfor %}
+{% else %}
+  {% for post in ordered_publications %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
