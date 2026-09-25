@@ -25,27 +25,25 @@ Work experience
   * Duties includes: Multimodal LLM and Token efficiency
   * Supervisor: Kaipeng Zhang  -->
 
-* May-August 2026: AI Research & Development Intern
-  * Nokia, Sunnyvale, California, United States (on-site)
+* May-August 2026: AI R&D Intern at Nokia
+  * Sunnyvale, California, United States (on-site)
   * Research focus: long-context compression and robustness.
 
-* Winter 2025: Intern Researcher
-  * HoumoAI
+* Winter 2025: Research Intern at HoumoAI
   * DUties includes: Research on Resource Preserving Data Application
 
-* Winter 2023: Intern Researcher
+* Winter 2023: Research Intern at Lenovo
   <!-- * Lenovo AI Reasearch in Beijing -->
-  * Lenovo Reasearch in Beijing
+  * Based in Beijing
   <!-- * Duties includes: Research on  Federated Learning and Videos Analysis -->
   * Duties includes: Research on Resource Preserving Data Application, Decentralized Data Analyses
 
-* Winter 2022: Intern Student
-  * NUS HPC Lab
+* Winter 2022: Intern Student at NUS HPC Lab
   <!-- * NUS HPC-AI Lab -->
   * Duties includes: Research on Resource Preserving Data Application
 
-* Summer 2018: Intern Researcher
-  * Lenovo Reasearch in Chengdu
+* Summer 2018: Research Intern at Lenovo
+  * Based in Chengdu
   * Duties included: Decentralized Data Analyses
   
 <!-- Skills
