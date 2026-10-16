@@ -208,6 +208,22 @@ details {
 
 .sidebar {
   color: var(--tech-muted);
+  overflow-x: hidden;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(125, 211, 252, 0.22) transparent;
+
+  &::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: rgba(125, 211, 252, 0.22);
+    border-radius: 999px;
+  }
 
   @media screen and (min-width: $sidebar-screen-min-width) {
     height: calc(100vh - #{$masthead-height} - 2rem);
@@ -256,6 +272,10 @@ details {
       background: rgba(125, 211, 252, 0.07);
       transform: translateX(2px);
     }
+  }
+
+  li {
+    white-space: normal;
   }
 }
 
