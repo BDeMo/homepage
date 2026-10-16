@@ -1,24 +1,24 @@
 ---
 permalink: /
-title: "Mingjia (Samuel Jayden) Shi's Homepage. "
+title: "Mingjia (Samuel Jayden) Shi's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
- Here's the page (academic CV, [pdf](https://github.com/BDeMo/Academic-Resume/raw/refs/heads/main/Mingjia_Shi_CV.pdf)) about Mingjia (Samuel Jayden) Shi, 石明佳 in Chinese. An ENFP who shouldn't say too much, but especially wants to. If you think the one in the sidebar is too casual, I have a [formal version](images/a_pic_of_mine_2.jpg). You should focus more on the content below than here! Feel free to contact me for collaboration, discussion or just to say hi!
+Welcome! I am Mingjia (Samuel Jayden) Shi (石明佳). You can find my academic CV [here](https://github.com/BDeMo/Academic-Resume/raw/refs/heads/main/Mingjia_Shi_CV.pdf). I am an ENFP who probably should say less but usually has more to share. If the photo in the sidebar feels too casual, here is a [formal version](images/a_pic_of_mine_2.jpg). Please feel free to contact me about research collaborations, technical discussions, or simply to say hello.
 
 **👨‍🎓 Biography**
 ---
 
-- Ph.D. career begins in the VAST Lab, University of Virginia, with the greatest advisor ever of the whole mankind, [Jundong Li](https://jundongli.github.io/index.html).
-- AI R&D Intern at **Nokia**, May–August 2026 (4 months), Sunnyvale, California, United States (on-site), focusing on long-context compression and robustness.
-- Internship at [HoumoAI](https://www.houmoai.com/) (ended in July, 2025), researching on topics related to real-world and industrial applications (e.g., resource-preserving AI) here brings me new challendges here.
+- I am a Ph.D. student in the VAST Lab at the University of Virginia, advised by [Jundong Li](https://jundongli.github.io/index.html).
+- I was an AI R&D Intern at **Nokia** in Sunnyvale, California, from May to August 2026, where I worked on long-context compression and robustness.
+- I interned at [HoumoAI](https://www.houmoai.com/) until July 2025, working on resource-efficient AI for real-world and industrial applications.
 <!-- - It's the 2nd year (written in 2024) as an intern student at [NUS HPC-Lab](https://ai.comp.nus.edu.sg/), and I enojoy the challenges and interesting topics here (e.g. efficient AI, generative model, parameter generation and etc.). -->
-- It's the 2nd year (written in 2024) as an intern student at [NUS HPC-Lab](https://ai.comp.nus.edu.sg/), and I enojoy the challenges and interesting topics here (e.g. Resource Preserving and Efficiency.).
+- I spent two years as a research intern at [NUS HPC-AI Lab](https://ai.comp.nus.edu.sg/), where I worked on resource-efficient AI and generative models.
 <!-- - From Sep. 2021 to June. 2024, I completed my master degree at Sichuan University majored in Artificial Intelligence, right where I had completed my 4-year bachelor's degree before, supervised by Prof. [Jiancheng Lv](https://center.dicalab.cn/). The majors of my career in Sichuan University are distributed optimization and learning (e.g., decentralized optimization and federated learning). -->
-- From Sep. 2021 to June. 2024, I completed my master degree at Sichuan University majored in Artificial Intelligence (Data Science), right where I had completed my 4-year bachelor's degree before, supervised by Prof. [Jiancheng Lv](https://center.dicalab.cn/). The majors of my career in Sichuan University are federated learning (i.e., Decentralized Data Analyses and Large System).
+- From September 2021 to June 2024, I completed my master's degree in Artificial Intelligence (Data Science) at Sichuan University, where I had also earned my bachelor's degree. I was supervised by Prof. [Jiancheng Lv](https://center.dicalab.cn/) and studied federated learning, decentralized data analysis, and large-scale learning systems.
 
 
 **🎉 Latest News**
@@ -26,36 +26,39 @@ redirect_from:
 
 - [Sep. 26] My first-author paper **SAP** was accepted by **NeurIPS 2026**, and two co-authored papers, **DD-Ranking** and **MemSuit**, were accepted by **NeurIPS 2026 (Oral)** and **EMNLP 2026**, respectively.
 - [Jul. 26] One first-author paper was accepted by ECCV 2026, and one collaborative paper was accepted by ICML 2026.
-- [Aug. 25] Ph.D. in computer engineering career has begun in UVa! Welcome N.A. proposal, paper and all other academic collaborations.
+- [Aug. 25] I began my Ph.D. in Computer Engineering at UVA. I welcome research collaborations, joint proposals, and other academic partnerships.
 
 <details>
-<summary>Old ones before 2025</summary>
+<summary>Earlier news</summary>
 <br>
-[Jan. 25] 25 Fall PhD and internship in my gap year are decided. Interesting collaborations are still welcome.
+[Jan. 25] My Fall 2025 Ph.D. plans and gap-year internship have been finalized. Research collaborations are still welcome.
+<!--
 <br>
 [Dec. 24] Waiting for 2025 Fall PhD and projects in my gap year.
 <br>
 [Aug. 24] Actively applying for a 2025 Fall PhD! If you are interested in a student familiar with theoretical analysis, generative model with extensive industry experiences as well, feel free to mail!
 <br>
 [Aug. 24] Actively applying for a 2025 Fall PhD! If you are interested in a student familiar with theoretical analysis, feel free to mail!
+-->
 
 </details>
 
 **👣 Current Career**
 ---
 
-Settled down in University of Virginia, Charlottesville. Charlottesville is a beautiful town of great natural and academical environment. I am now exploring new research directions for my following Ph.D. career. Proposal collaborations are all welcomed.
+I am currently based at the University of Virginia in Charlottesville. My research focuses on efficient AI, with an emphasis on making modern AI systems more capable, scalable, and resource-efficient. I welcome research collaborations and joint proposals in these areas.
 
 <!-- During my research period, as an author and a reviewer of Top conferences and journals, I have appreciated the fascination and what I want to do, so I pursue a PhD career further. I am busy with my visa now. -->
 
 **🔍 Research Interests**
 ---
 
-My research focus on Resource Preserving and ...
+My primary research focus is **Efficient AI**. I study efficiency across the AI lifecycle, including efficient training and inference, model and data efficiency, multimodal systems, and AI-native approaches that jointly design models, algorithms, and systems around real computational constraints.
 <!-- - 🖐️ **Works in hands**. My works are mainly both theoretical analyses and corresponding methods about Efficient AI on Trends, Generative Models, AI Privacy and Safety and Federated Learning. -->
-- 🖐️ **Works in hands**. My works are mainly both theoretical analyses and corresponding methods about Resource Preserving. Multi-Modal and Efficiency on Trends. Besides those only collaborative works before my enrollment in UVa that are kept processing, and the other future works and collaboration are in U.S. or other nonsensitive countries.
-- 🎓 **Overall background**. A knowledge and research background about math+cs, system/control/information theories, deep learning thoeries, optimization and generalization analyses.
-- 🌟 **More-interest**. There is a continuing interest in technical research as well as basic science research. Physics and other science disciplines are always beautiful.
+<!-- The former "Works in hands" section described projects that have now been published. -->
+- 🎓 **Overall background**. My background spans mathematics and computer science, optimization and generalization, systems, control and information theory, generative modeling, multimodal learning, and AI-native efficiency.
+- 🤝 **Collaboration**. I welcome collaborations on efficient AI, particularly projects connecting learning algorithms, multimodal models, and systems-level efficiency.
+- 🌟 **Broader interests**. Beyond technical AI research, I remain interested in fundamental questions across physics and the natural sciences.
 <!-- - **Distributed Learning and Optimization**: -->
 <!-- Distributed learning is the last one I majored in. The works explore the heterogeneity composition in federated learning primarily from the perspective of information composition, with methods towards information theory and optimization. -->
 <!-- - **Efficient AI**: -->
@@ -160,7 +163,9 @@ Q. Ye, Y. Zhou, <u>M. Shi</u>, J. Lv ([paper](https://link.springer.com/article/
 **🛎 Services**
 ---
 
-Reviewer: NeurIPS, ICLR, ICML, CVPR, ICCV, MM, ICPP, ICASSP, ICONIP; TNNLS, TCSVT, TPDS, TKDE, Neurocomputing and others.
+**Selected conference reviewing:** NeurIPS, ICML, and ICLR; CVPR and ICCV; ACL Rolling Review (ARR), serving ACL, EMNLP, NAACL, and other ARR venues; ACM Multimedia; and IJCNN, ICPP, ICASSP, and ICONIP.
+
+**Journal reviewing:** TNNLS, TCSVT, TPDS, TKDE, Neurocomputing, and others.
 
 **🎈 Hobbies**
 ---
@@ -173,4 +178,4 @@ Reviewer: NeurIPS, ICLR, ICML, CVPR, ICCV, MM, ICPP, ICASSP, ICONIP; TNNLS, TCSV
 ♟️ Chess and other Table-top Games,
 🎱 Billiards,
 🎮 Games,
-🔬 Study on interesting topics,
+🔬 Learning about interesting topics.
