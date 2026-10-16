@@ -46,7 +46,12 @@ the site concise, professional, current, and personable.
 - News from December 2024 or earlier should remain in `_pages/about.md` for
   provenance but must be hidden from the rendered page with HTML comments.
 - New news should be placed above older entries in reverse chronological order.
+- Keep News entries in regular weight; do not bold paper titles or venues there.
 - Do not delete historical news unless explicitly requested.
+
+## Homepage utilities
+
+- Keep the footer RSS/Feed link hidden unless explicitly requested again.
 
 ## Verification
 

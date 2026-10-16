@@ -13,7 +13,7 @@ Welcome! I am Mingjia (Samuel Jayden) Shi (石明佳). You can find my academic 
 ---
 
 - I am a Ph.D. student in the VAST Lab at the University of Virginia, advised by [Jundong Li](https://jundongli.github.io/index.html).
-- I was an AI R&D Intern at **Nokia** in Sunnyvale, California, from May to August 2026, where I worked on long-context compression and robustness.
+- I was an AI R&D Intern at [Nokia](https://www.nokia.com/) in Sunnyvale, California, from May to August 2026, where I worked on long-context compression and robustness.
 - I interned at [HoumoAI](https://www.houmoai.com/) until July 2025, working on resource-efficient AI for real-world and industrial applications.
 <!-- - It's the 2nd year (written in 2024) as an intern student at [NUS HPC-Lab](https://ai.comp.nus.edu.sg/), and I enojoy the challenges and interesting topics here (e.g. efficient AI, generative model, parameter generation and etc.). -->
 - I spent two years as a research intern at [NUS HPC-AI Lab](https://ai.comp.nus.edu.sg/), where I worked on resource-efficient AI and generative models.
@@ -24,7 +24,7 @@ Welcome! I am Mingjia (Samuel Jayden) Shi (石明佳). You can find my academic 
 **🎉 Latest News**
 ---
 
-- [Sep. 26] My first-author paper **SAP** was accepted by **NeurIPS 2026**, and two co-authored papers, **DD-Ranking** and **MemSuit**, were accepted by **NeurIPS 2026 (Oral)** and **EMNLP 2026**, respectively.
+- [Sep. 26] My first-author paper SAP was accepted by NeurIPS 2026, and two co-authored papers, DD-Ranking and MemSuit, were accepted by NeurIPS 2026 (Oral) and EMNLP 2026, respectively.
 - [Jul. 26] One first-author paper was accepted by ECCV 2026, and one collaborative paper was accepted by ICML 2026.
 - [Aug. 25] I began my Ph.D. in Computer Engineering at UVA. I welcome research collaborations, joint proposals, and other academic partnerships.
 
@@ -163,7 +163,7 @@ Q. Ye, Y. Zhou, <u>M. Shi</u>, J. Lv ([paper](https://link.springer.com/article/
 **🛎 Services**
 ---
 
-**Selected conference reviewing:** NeurIPS, ICML, and ICLR; CVPR and ICCV; ACL Rolling Review (ARR), serving ACL, EMNLP, NAACL, and other ARR venues; ACM Multimedia; and IJCNN, ICPP, ICASSP, and ICONIP.
+**Selected conference reviewing:** NeurIPS, ICML, and ICLR; CVPR, ICCV, and ECCV; ACL Rolling Review (ARR), serving ACL, EMNLP, NAACL, and other ARR venues; ACM Multimedia; IJCNN, ICPP, ICASSP, ICONIP, etc.
 
 **Journal reviewing:** TNNLS, TCSVT, TPDS, TKDE, Neurocomputing, and others.
 
