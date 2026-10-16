@@ -208,7 +208,7 @@ details {
 
 .sidebar {
   color: var(--tech-muted);
-  overflow-x: hidden;
+  overflow-x: clip !important;
   scrollbar-width: thin;
   scrollbar-color: rgba(125, 211, 252, 0.22) transparent;
 
@@ -238,6 +238,14 @@ details {
   }
 }
 
+.author__avatar,
+.author__avatar img,
+.author__urls-wrapper,
+.author__urls {
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
 .author__avatar img {
   padding: 3px;
   background: linear-gradient(145deg, rgba(125, 211, 252, 0.55), rgba(99, 102, 241, 0.25));
@@ -258,6 +266,8 @@ details {
 }
 
 .author__urls {
+  width: 100%;
+  overflow-x: clip !important;
   background: var(--tech-surface-strong);
   border-color: var(--tech-border);
 
@@ -275,8 +285,20 @@ details {
   }
 
   li {
+    min-width: 0;
     white-space: normal;
   }
+}
+
+.author__urls-wrapper,
+.author__urls a,
+.author__desktop {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+.author__urls-wrapper {
+  overflow-x: clip !important;
 }
 
 .archive__subtitle {
