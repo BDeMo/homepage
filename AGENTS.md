@@ -38,6 +38,8 @@ the site concise, professional, current, and personable.
   animation, dense decoration, and anything that reduces academic readability.
 - Preserve responsive behavior, accessible contrast, reduced-motion support,
   and the existing Jekyll content structure.
+- Keep the layout fluid across phone, tablet, desktop, and ultrawide widths;
+  avoid fixed content widths and mismatched sidebar/content breakpoints.
 - Put site-specific visual overrides in `_sass/_custom.scss`; avoid editing the
   upstream theme structure unless necessary.
 
