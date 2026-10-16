@@ -9,8 +9,8 @@ redirect_from:
 
 Welcome! I am Mingjia (Samuel Jayden) Shi (石明佳). You can find my academic CV [here](https://github.com/BDeMo/Academic-Resume/raw/refs/heads/main/Mingjia_Shi_CV.pdf). I am an ENFP who probably should say less but usually has more to share. If the photo in the sidebar feels too casual, here is a [formal version](images/a_pic_of_mine_2.jpg). Please feel free to contact me about research collaborations, technical discussions, or simply to say hello.
 
-**👨‍🎓 Biography**
----
+<details class="homepage-section" open markdown="1">
+<summary>👨‍🎓 Biography</summary>
 
 - I am a Ph.D. student in the VAST Lab at the University of Virginia, advised by [Jundong Li](https://jundongli.github.io/index.html).
 - I was an AI R&D Intern at [Nokia](https://www.nokia.com/) in Sunnyvale, California, from May to August 2026, where I worked on long-context compression and robustness.
@@ -21,8 +21,10 @@ Welcome! I am Mingjia (Samuel Jayden) Shi (石明佳). You can find my academic 
 - From September 2021 to June 2024, I completed my master's degree in Artificial Intelligence (Data Science) at Sichuan University, where I had also earned my bachelor's degree. I was supervised by Prof. [Jiancheng Lv](https://center.dicalab.cn/) and studied federated learning, decentralized data analysis, and large-scale learning systems.
 
 
-**🎉 Latest News**
----
+</details>
+
+<details class="homepage-section" open markdown="1">
+<summary>🎉 Latest News</summary>
 
 - [Sep. 26] My first-author paper SAP was accepted by NeurIPS 2026, and two co-authored papers, DD-Ranking and MemSuit, were accepted by NeurIPS 2026 (Oral) and EMNLP 2026, respectively.
 - [Jul. 26] One first-author paper was accepted by ECCV 2026, and one collaborative paper was accepted by ICML 2026.
@@ -43,15 +45,19 @@ Welcome! I am Mingjia (Samuel Jayden) Shi (石明佳). You can find my academic 
 
 </details>
 
-**👣 Current Career**
----
+</details>
+
+<details class="homepage-section" open markdown="1">
+<summary>👣 Current Career</summary>
 
 I am currently based at the University of Virginia in Charlottesville. My research focuses on efficient AI, with an emphasis on making modern AI systems more capable, scalable, and resource-efficient. I welcome research collaborations and joint proposals in these areas.
 
 <!-- During my research period, as an author and a reviewer of Top conferences and journals, I have appreciated the fascination and what I want to do, so I pursue a PhD career further. I am busy with my visa now. -->
 
-**🔍 Research Interests**
----
+</details>
+
+<details class="homepage-section" open markdown="1">
+<summary>🔍 Research Interests</summary>
 
 My primary research focus is **Efficient AI**. I study efficiency across the AI lifecycle, including efficient training and inference, model and data efficiency, multimodal systems, and AI-native approaches that jointly design models, algorithms, and systems around real computational constraints.
 <!-- - 🖐️ **Works in hands**. My works are mainly both theoretical analyses and corresponding methods about Efficient AI on Trends, Generative Models, AI Privacy and Safety and Federated Learning. -->
@@ -69,8 +75,10 @@ My primary research focus is **Efficient AI**. I study efficiency across the AI 
 <!-- Another big hitter, LLM, and its practical generation tasks are also of my interests. A lot of industrial issues that need to be solved, effiicency, human value alignment and privacy. -->
 
 
-**📄 Selected Publications**
----
+</details>
+
+<details class="homepage-section" open markdown="1">
+<summary>📄 Selected Publications</summary>
 
 📅 **2026**:
 
@@ -160,15 +168,19 @@ Q. Ye, Y. Zhou, <u>M. Shi</u>, J. Lv ([paper](https://link.springer.com/article/
 
 [Please see the full list in Google Scholar](https://scholar.google.com/citations?user=B6f3ImkAAAAJ)
 
-**🛎 Services**
----
+</details>
+
+<details class="homepage-section" open markdown="1">
+<summary>🛎 Services</summary>
 
 **Selected conference reviewing:** NeurIPS, ICML, and ICLR; CVPR, ICCV, and ECCV; ACL Rolling Review (ARR), serving ACL, EMNLP, NAACL, and other ARR venues; ACM Multimedia; IJCNN, ICPP, ICASSP, ICONIP, etc.
 
 **Journal reviewing:** TNNLS, TCSVT, TPDS, TKDE, Neurocomputing, and others.
 
-**🎈 Hobbies**
----
+</details>
+
+<details class="homepage-section" open markdown="1">
+<summary>🎈 Hobbies</summary>
 
 📷 Photograph,
 ⛺ Travel,
@@ -179,3 +191,5 @@ Q. Ye, Y. Zhou, <u>M. Shi</u>, J. Lv ([paper](https://link.springer.com/article/
 🎱 Billiards,
 🎮 Games,
 🔬 Learning about interesting topics.
+
+</details>

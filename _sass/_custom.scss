@@ -206,6 +206,63 @@ details {
   }
 }
 
+.homepage-section {
+  margin: 1rem 0;
+  padding: 0;
+  background: rgba(125, 211, 252, 0.025);
+  border-color: rgba(125, 211, 252, 0.11);
+
+  > summary {
+    position: relative;
+    padding: 1rem 3rem 1rem 1.1rem;
+    color: #f3f8ff;
+    font-size: clamp(1.08rem, 1.8vw, 1.3rem);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    list-style: none;
+    border-radius: 12px;
+    transition: color 160ms ease, background-color 160ms ease;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &::after {
+      position: absolute;
+      top: 50%;
+      right: 1.15rem;
+      content: "+";
+      color: var(--tech-accent);
+      font-size: 1.25rem;
+      font-weight: 400;
+      transform: translateY(-52%);
+    }
+
+    &:hover {
+      color: var(--tech-accent);
+      background: rgba(125, 211, 252, 0.045);
+    }
+  }
+
+  &[open] > summary {
+    border-bottom: 1px solid var(--tech-border);
+    border-radius: 12px 12px 0 0;
+
+    &::after {
+      content: "−";
+    }
+  }
+
+  > :not(summary) {
+    margin-right: 1.1rem;
+    margin-left: 1.1rem;
+  }
+
+  > :last-child {
+    margin-bottom: 1.15rem;
+  }
+}
+
 .sidebar {
   color: var(--tech-muted);
   overflow-x: clip !important;

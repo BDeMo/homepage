@@ -52,6 +52,8 @@ the site concise, professional, current, and personable.
 ## Homepage utilities
 
 - Keep the footer RSS/Feed link hidden unless explicitly requested again.
+- Keep each major homepage section in an open-by-default, user-collapsible
+  `<details class="homepage-section" open>` block.
 
 ## Verification
 
