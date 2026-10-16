@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "       Mingjia Shi / Homepage"
+title                    : "Mingjia Shi"
 title_separator          : "-"
 name                     : &name "Mingjia Shi"
 description              : &description "Mingjia Shi's academic homepage — efficient AI, multimodal learning, and AI-native efficiency"
@@ -25,7 +25,7 @@ author:
   name             : "Mingjia Shi"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student at UVA working on efficient AI, multimodal learning, and AI-native efficiency. [Casual]"
-  location         : "Somewhere on the earth"
+  location         : "Charlottesville, Virginia"
   employer         : "University of Virginia"
   uri              : "https://www.samjs.online" # URL
   email            : "samuel_jayden_shi@samjs.online" 

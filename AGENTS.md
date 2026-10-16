@@ -30,6 +30,17 @@ the site concise, professional, current, and personable.
   list other conferences and journals separately. Preserve ACL Rolling Review
   (ARR) service and mention ACL, EMNLP, and NAACL as representative ARR venues.
 
+## Visual direction
+
+- Use a premium, minimalist technology aesthetic: deep navy surfaces, restrained
+  cyan accents, subtle gradients, fine borders, and generous spacing.
+- Keep visual effects quiet and functional. Avoid loud neon colors, excessive
+  animation, dense decoration, and anything that reduces academic readability.
+- Preserve responsive behavior, accessible contrast, reduced-motion support,
+  and the existing Jekyll content structure.
+- Put site-specific visual overrides in `_sass/_custom.scss`; avoid editing the
+  upstream theme structure unless necessary.
+
 ## News maintenance
 
 - News from December 2024 or earlier should remain in `_pages/about.md` for
