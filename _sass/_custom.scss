@@ -126,8 +126,8 @@ body::before {
   }
 }
 
-// The upstream theme fixes the sidebar at 1024px but does not switch the
-// content to a two-column layout until 1200px. Keep this in-between range fluid.
+// Keep the sidebar in normal document flow through the tablet range instead
+// of fixing it mid-layout at the upstream theme's 1024px threshold.
 @media screen and (min-width: $sidebar-screen-min-width) and (max-width: 1199px) {
   .sidebar {
     position: relative;
